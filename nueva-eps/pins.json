@@ -1,15 +1,15 @@
 [{
-  "id": 1020718455,    
+  "id": "1020718455",    
   "username": "nombre promotor1",
   "pin":"1234"
  }, 
  {
-  "id": 1020718456,    
+  "id": "1020718456",    
   "username": "nombre promotor2",
   "pin":"9485"
  }, 
  {
-  "id": 1020718453,
+  "id": "1020718453",
   "username": "nombre promotor3",
   "pin":"7890"
 }]
