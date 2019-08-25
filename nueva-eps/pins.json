@@ -1,18 +1,20 @@
-[{
-  "id": "1020718455",    
-  "username": "nombre promotor1",
-  "idUsuario":"promotor1",
-  "pin":"1234"
- }, 
- {
-  "id": "1020718456",    
-  "username": "nombre promotor2",
-  "idUsuario":"promotor2",
-  "pin":"9485"
- }, 
- {
-  "id": "1020718453",
-  "username": "nombre promotor3",
-  "idUsuario":"promotor3",
-  "pin":"7890"
-}]
+[
+  {
+    "id": "1020718455",
+    "username": "Jose Francisco Garcia jimenez",
+    "idUsuario": "1",
+    "pin": "1234"
+  },
+  {
+    "id": "1020718456",
+    "username": "Pedro Miguel Ruiz Hernandez",
+    "idUsuario": "2",
+    "pin": "9485"
+  },
+  {
+    "id": "1020718453",
+    "username": "Miguel Angel Serrano Sanchez",
+    "idUsuario": "3",
+    "pin": "7890"
+  }
+]
