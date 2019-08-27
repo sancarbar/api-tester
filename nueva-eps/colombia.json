@@ -1,4675 +1,1298 @@
-[
-  {
-    "id": 34,
-    "departamento": "ANTIOQUIA",
-    "listaMunicipios": [
-      {
-        "id": 1161,
-        "municipio": "ABEJORRAL"
-      },
-      {
-        "id": 1162,
-        "municipio": "ABRIAQUI"
-      },
-      {
-        "id": 1163,
-        "municipio": "ALEJANDRIA"
-      },
-      {
-        "id": 1164,
-        "municipio": "AMAGA"
-      },
-      {
-        "id": 1165,
-        "municipio": "AMALFI"
-      },
-      {
-        "id": 1166,
-        "municipio": "ANDES"
-      },
-      {
-        "id": 1167,
-        "municipio": "ANGELOPOLIS"
-      },
-      {
-        "id": 1168,
-        "municipio": "ANGOSTURA"
-      },
-      {
-        "id": 1169,
-        "municipio": "ANORI"
-      },
-      {
-        "id": 1171,
-        "municipio": "ANZA"
-      },
-      {
-        "id": 1172,
-        "municipio": "APARTADO"
-      },
-      {
-        "id": 1173,
-        "municipio": "ARBOLETES"
-      },
-      {
-        "id": 1174,
-        "municipio": "ARGELIA"
-      },
-      {
-        "id": 1175,
-        "municipio": "ARMENIA"
-      },
-      {
-        "id": 1176,
-        "municipio": "BARBOSA"
-      },
-      {
-        "id": 1178,
-        "municipio": "BELLO"
-      },
-      {
-        "id": 1177,
-        "municipio": "BELMIRA"
-      },
-      {
-        "id": 1179,
-        "municipio": "BETANIA"
-      },
-      {
-        "id": 1180,
-        "municipio": "BETULIA"
-      },
-      {
-        "id": 1182,
-        "municipio": "BRICEÑO"
-      },
-      {
-        "id": 1183,
-        "municipio": "BURITICA"
-      },
-      {
-        "id": 1184,
-        "municipio": "CACERES"
-      },
-      {
-        "id": 1185,
-        "municipio": "CAICEDO"
-      },
-      {
-        "id": 1186,
-        "municipio": "CALDAS"
-      },
-      {
-        "id": 1187,
-        "municipio": "CAMPAMENTO"
-      },
-      {
-        "id": 1188,
-        "municipio": "CAÑASGORDAS"
-      },
-      {
-        "id": 1189,
-        "municipio": "CARACOLI"
-      },
-      {
-        "id": 1190,
-        "municipio": "CARAMANTA"
-      },
-      {
-        "id": 1191,
-        "municipio": "CAREPA"
-      },
-      {
-        "id": 1193,
-        "municipio": "CAROLINA"
-      },
-      {
-        "id": 1194,
-        "municipio": "CAUCASIA"
-      },
-      {
-        "id": 1195,
-        "municipio": "CHIGORODO"
-      },
-      {
-        "id": 1196,
-        "municipio": "CISNEROS"
-      },
-      {
-        "id": 1181,
-        "municipio": "CIUDAD BOLIVAR"
-      },
-      {
-        "id": 1197,
-        "municipio": "COCORNA"
-      },
-      {
-        "id": 1198,
-        "municipio": "CONCEPCION"
-      },
-      {
-        "id": 1199,
-        "municipio": "CONCORDIA"
-      },
-      {
-        "id": 1200,
-        "municipio": "COPACABANA"
-      },
-      {
-        "id": 1201,
-        "municipio": "DABEIBA"
-      },
-      {
-        "id": 1202,
-        "municipio": "DONMATIAS"
-      },
-      {
-        "id": 1203,
-        "municipio": "EBEJICO"
-      },
-      {
-        "id": 1204,
-        "municipio": "EL BAGRE"
-      },
-      {
-        "id": 1192,
-        "municipio": "EL CARMEN DE VIBORAL"
-      },
-      {
-        "id": 1263,
-        "municipio": "EL SANTUARIO"
-      },
-      {
-        "id": 1205,
-        "municipio": "ENTRERRIOS"
-      },
-      {
-        "id": 1206,
-        "municipio": "ENVIGADO"
-      },
-      {
-        "id": 1207,
-        "municipio": "FREDONIA"
-      },
-      {
-        "id": 1208,
-        "municipio": "FRONTINO"
-      },
-      {
-        "id": 1209,
-        "municipio": "GIRALDO"
-      },
-      {
-        "id": 1210,
-        "municipio": "GIRARDOTA"
-      },
-      {
-        "id": 1211,
-        "municipio": "GOMEZ PLATA"
-      },
-      {
-        "id": 1212,
-        "municipio": "GRANADA"
-      },
-      {
-        "id": 1213,
-        "municipio": "GUADALUPE"
-      },
-      {
-        "id": 1214,
-        "municipio": "GUARNE"
-      },
-      {
-        "id": 1215,
-        "municipio": "GUATAPE"
-      },
-      {
-        "id": 1216,
-        "municipio": "HELICONIA"
-      },
-      {
-        "id": 1217,
-        "municipio": "HISPANIA"
-      },
-      {
-        "id": 1218,
-        "municipio": "ITAGUI"
-      },
-      {
-        "id": 1219,
-        "municipio": "ITUANGO"
-      },
-      {
-        "id": 1220,
-        "municipio": "JARDIN"
-      },
-      {
-        "id": 1221,
-        "municipio": "JERICO"
-      },
-      {
-        "id": 1222,
-        "municipio": "LA CEJA"
-      },
-      {
-        "id": 1223,
-        "municipio": "LA ESTRELLA"
-      },
-      {
-        "id": 1224,
-        "municipio": "LA PINTADA"
-      },
-      {
-        "id": 1225,
-        "municipio": "LA UNION"
-      },
-      {
-        "id": 1226,
-        "municipio": "LIBORINA"
-      },
-      {
-        "id": 1227,
-        "municipio": "MACEO"
-      },
-      {
-        "id": 1228,
-        "municipio": "MARINILLA"
-      },
-      {
-        "id": 1160,
-        "municipio": "MEDELLIN"
-      },
-      {
-        "id": 1229,
-        "municipio": "MONTEBELLO"
-      },
-      {
-        "id": 1230,
-        "municipio": "MURINDO"
-      },
-      {
-        "id": 1231,
-        "municipio": "MUTATA"
-      },
-      {
-        "id": 1232,
-        "municipio": "NARIÑO"
-      },
-      {
-        "id": 1234,
-        "municipio": "NECHI"
-      },
-      {
-        "id": 1233,
-        "municipio": "NECOCLI"
-      },
-      {
-        "id": 1235,
-        "municipio": "OLAYA"
-      },
-      {
-        "id": 1236,
-        "municipio": "PEÑOL"
-      },
-      {
-        "id": 1237,
-        "municipio": "PEQUE"
-      },
-      {
-        "id": 1238,
-        "municipio": "PUEBLORRICO"
-      },
-      {
-        "id": 1239,
-        "municipio": "PUERTO BERRIO"
-      },
-      {
-        "id": 1240,
-        "municipio": "PUERTO NARE"
-      },
-      {
-        "id": 1241,
-        "municipio": "PUERTO TRIUNFO"
-      },
-      {
-        "id": 1242,
-        "municipio": "REMEDIOS"
-      },
-      {
-        "id": 1243,
-        "municipio": "RETIRO"
-      },
-      {
-        "id": 1244,
-        "municipio": "RIONEGRO"
-      },
-      {
-        "id": 1245,
-        "municipio": "SABANALARGA"
-      },
-      {
-        "id": 1246,
-        "municipio": "SABANETA"
-      },
-      {
-        "id": 1247,
-        "municipio": "SALGAR"
-      },
-      {
-        "id": 1248,
-        "municipio": "SAN ANDRES DE CUERQUIA"
-      },
-      {
-        "id": 1249,
-        "municipio": "SAN CARLOS"
-      },
-      {
-        "id": 1250,
-        "municipio": "SAN FRANCISCO"
-      },
-      {
-        "id": 1251,
-        "municipio": "SAN JERONIMO"
-      },
-      {
-        "id": 1252,
-        "municipio": "SAN JOSE DE LA MONTAÃ‘A"
-      },
-      {
-        "id": 1253,
-        "municipio": "SAN JUAN DE URABA"
-      },
-      {
-        "id": 1254,
-        "municipio": "SAN LUIS"
-      },
-      {
-        "id": 1255,
-        "municipio": "SAN PEDRO DE LOS MILAGROS"
-      },
-      {
-        "id": 1256,
-        "municipio": "SAN PEDRO DE URABA"
-      },
-      {
-        "id": 1257,
-        "municipio": "SAN RAFAEL"
-      },
-      {
-        "id": 1258,
-        "municipio": "SAN ROQUE"
-      },
-      {
-        "id": 1259,
-        "municipio": "SAN VICENTE FERRER"
-      },
-      {
-        "id": 1260,
-        "municipio": "SANTA BARBARA"
-      },
-      {
-        "id": 1261,
-        "municipio": "SANTA ROSA DE OSOS"
-      },
-      {
-        "id": 1170,
-        "municipio": "SANTAFE DE ANTIOQUIA"
-      },
-      {
-        "id": 1262,
-        "municipio": "SANTO DOMINGO"
-      },
-      {
-        "id": 1264,
-        "municipio": "SEGOVIA"
-      },
-      {
-        "id": 1265,
-        "municipio": "SONSON"
-      },
-      {
-        "id": 1266,
-        "municipio": "SOPETRAN"
-      },
-      {
-        "id": 1267,
-        "municipio": "TAMESIS"
-      },
-      {
-        "id": 1268,
-        "municipio": "TARAZA"
-      },
-      {
-        "id": 1269,
-        "municipio": "TARSO"
-      },
-      {
-        "id": 1270,
-        "municipio": "TITIRIBI"
-      },
-      {
-        "id": 1271,
-        "municipio": "TOLEDO"
-      },
-      {
-        "id": 1272,
-        "municipio": "TURBO"
-      },
-      {
-        "id": 1273,
-        "municipio": "URAMITA"
-      },
-      {
-        "id": 1274,
-        "municipio": "URRAO"
-      },
-      {
-        "id": 1275,
-        "municipio": "VALDIVIA"
-      },
-      {
-        "id": 1276,
-        "municipio": "VALPARAISO"
-      },
-      {
-        "id": 1277,
-        "municipio": "VEGACHI"
-      },
-      {
-        "id": 1278,
-        "municipio": "VENECIA"
-      },
-      {
-        "id": 1279,
-        "municipio": "VIGIA DEL FUERTE"
-      },
-      {
-        "id": 1280,
-        "municipio": "YALI"
-      },
-      {
-        "id": 1281,
-        "municipio": "YARUMAL"
-      },
-      {
-        "id": 1282,
-        "municipio": "YOLOMBO"
-      },
-      {
-        "id": 1283,
-        "municipio": "YONDO"
-      },
-      {
-        "id": 1284,
-        "municipio": "ZARAGOZA"
-      }
-    ]
-  },
-  {
-    "id": 35,
-    "departamento": "ATLANTICO",
-    "listaMunicipios": [
-      {
-        "id": 1297,
-        "municipio": "BARANOA"
-      },
-      {
-        "id": 1296,
-        "municipio": "BARRANQUILLA"
-      },
-      {
-        "id": 1298,
-        "municipio": "CAMPO DE LA CRUZ"
-      },
-      {
-        "id": 1299,
-        "municipio": "CANDELARIA"
-      },
-      {
-        "id": 1300,
-        "municipio": "GALAPA"
-      },
-      {
-        "id": 1301,
-        "municipio": "JUAN DE ACOSTA"
-      },
-      {
-        "id": 1302,
-        "municipio": "LURUACO"
-      },
-      {
-        "id": 1303,
-        "municipio": "MALAMBO"
-      },
-      {
-        "id": 1304,
-        "municipio": "MANATI"
-      },
-      {
-        "id": 1305,
-        "municipio": "PALMAR DE VARELA"
-      },
-      {
-        "id": 1306,
-        "municipio": "PIOJO"
-      },
-      {
-        "id": 1307,
-        "municipio": "POLONUEVO"
-      },
-      {
-        "id": 1308,
-        "municipio": "PONEDERA"
-      },
-      {
-        "id": 1309,
-        "municipio": "PUERTO COLOMBIA"
-      },
-      {
-        "id": 1310,
-        "municipio": "REPELON"
-      },
-      {
-        "id": 1311,
-        "municipio": "SABANAGRANDE"
-      },
-      {
-        "id": 1312,
-        "municipio": "SABANALARGA"
-      },
-      {
-        "id": 1313,
-        "municipio": "SANTA LUCIA"
-      },
-      {
-        "id": 1314,
-        "municipio": "SANTO TOMAS"
-      },
-      {
-        "id": 1315,
-        "municipio": "SOLEDAD"
-      },
-      {
-        "id": 1316,
-        "municipio": "SUAN"
-      },
-      {
-        "id": 1317,
-        "municipio": "TUBARA"
-      },
-      {
-        "id": 1318,
-        "municipio": "USIACURI"
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "departamento": "DISTRITO CAPITAL",
-    "listaMunicipios": [
-      {
-        "id": 1319,
-        "municipio": "BOGOTÁ D.C."
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "departamento": "BOLIVAR",
-    "listaMunicipios": [
-      {
-        "id": 1321,
-        "municipio": "ACHI"
-      },
-      {
-        "id": 1322,
-        "municipio": "ALTOS DEL ROSARIO"
-      },
-      {
-        "id": 1323,
-        "municipio": "ARENAL"
-      },
-      {
-        "id": 1324,
-        "municipio": "ARJONA"
-      },
-      {
-        "id": 1325,
-        "municipio": "ARROYOHONDO"
-      },
-      {
-        "id": 1326,
-        "municipio": "BARRANCO DE LOBA"
-      },
-      {
-        "id": 1327,
-        "municipio": "CALAMAR"
-      },
-      {
-        "id": 1328,
-        "municipio": "CANTAGALLO"
-      },
-      {
-        "id": 1320,
-        "municipio": "CARTAGENA"
-      },
-      {
-        "id": 1329,
-        "municipio": "CICUCO"
-      },
-      {
-        "id": 1331,
-        "municipio": "CLEMENCIA"
-      },
-      {
-        "id": 1330,
-        "municipio": "CORDOBA"
-      },
-      {
-        "id": 1332,
-        "municipio": "EL CARMEN DE BOLIVAR"
-      },
-      {
-        "id": 1333,
-        "municipio": "EL GUAMO"
-      },
-      {
-        "id": 1334,
-        "municipio": "EL PEÑON"
-      },
-      {
-        "id": 1335,
-        "municipio": "HATILLO DE LOBA"
-      },
-      {
-        "id": 1336,
-        "municipio": "MAGANGUE"
-      },
-      {
-        "id": 1337,
-        "municipio": "MAHATES"
-      },
-      {
-        "id": 1338,
-        "municipio": "MARGARITA"
-      },
-      {
-        "id": 1339,
-        "municipio": "MARIA LA BAJA"
-      },
-      {
-        "id": 1341,
-        "municipio": "MOMPOS"
-      },
-      {
-        "id": 1340,
-        "municipio": "MONTECRISTO"
-      },
-      {
-        "id": 1342,
-        "municipio": "MORALES"
-      },
-      {
-        "id": 1343,
-        "municipio": "NOROSI"
-      },
-      {
-        "id": 1344,
-        "municipio": "PINILLOS"
-      },
-      {
-        "id": 1345,
-        "municipio": "REGIDOR"
-      },
-      {
-        "id": 1346,
-        "municipio": "RIO VIEJO"
-      },
-      {
-        "id": 1347,
-        "municipio": "SAN CRISTOBAL"
-      },
-      {
-        "id": 1348,
-        "municipio": "SAN ESTANISLAO"
-      },
-      {
-        "id": 1349,
-        "municipio": "SAN FERNANDO"
-      },
-      {
-        "id": 1350,
-        "municipio": "SAN JACINTO"
-      },
-      {
-        "id": 1351,
-        "municipio": "SAN JACINTO DEL CAUCA"
-      },
-      {
-        "id": 1352,
-        "municipio": "SAN JUAN NEPOMUCENO"
-      },
-      {
-        "id": 1353,
-        "municipio": "SAN MARTIN DE LOBA"
-      },
-      {
-        "id": 1354,
-        "municipio": "SAN PABLO"
-      },
-      {
-        "id": 1355,
-        "municipio": "SANTA CATALINA"
-      },
-      {
-        "id": 1356,
-        "municipio": "SANTA ROSA"
-      },
-      {
-        "id": 1357,
-        "municipio": "SANTA ROSA DEL SUR"
-      },
-      {
-        "id": 1358,
-        "municipio": "SIMITI"
-      },
-      {
-        "id": 1359,
-        "municipio": "SOPLAVIENTO"
-      },
-      {
-        "id": 1360,
-        "municipio": "TALAIGUA NUEVO"
-      },
-      {
-        "id": 1361,
-        "municipio": "TIQUISIO"
-      },
-      {
-        "id": 1362,
-        "municipio": "TURBACO"
-      },
-      {
-        "id": 1363,
-        "municipio": "TURBANA"
-      },
-      {
-        "id": 1364,
-        "municipio": "VILLANUEVA"
-      },
-      {
-        "id": 1365,
-        "municipio": "ZAMBRANO"
-      }
-    ]
-  },
-  {
-    "id": 38,
-    "departamento": "BOYACA",
-    "listaMunicipios": [
-      {
-        "id": 1367,
-        "municipio": "ALMEIDA"
-      },
-      {
-        "id": 1368,
-        "municipio": "AQUITANIA"
-      },
-      {
-        "id": 1369,
-        "municipio": "ARCABUCO"
-      },
-      {
-        "id": 1370,
-        "municipio": "BELEN"
-      },
-      {
-        "id": 1371,
-        "municipio": "BERBEO"
-      },
-      {
-        "id": 1372,
-        "municipio": "BETEITIVA"
-      },
-      {
-        "id": 1373,
-        "municipio": "BOAVITA"
-      },
-      {
-        "id": 1374,
-        "municipio": "BOYACA"
-      },
-      {
-        "id": 1375,
-        "municipio": "BRICEÑO"
-      },
-      {
-        "id": 1376,
-        "municipio": "BUENAVISTA"
-      },
-      {
-        "id": 1377,
-        "municipio": "BUSBANZA"
-      },
-      {
-        "id": 1378,
-        "municipio": "CALDAS"
-      },
-      {
-        "id": 1379,
-        "municipio": "CAMPOHERMOSO"
-      },
-      {
-        "id": 1380,
-        "municipio": "CERINZA"
-      },
-      {
-        "id": 1381,
-        "municipio": "CHINAVITA"
-      },
-      {
-        "id": 1382,
-        "municipio": "CHIQUINQUIRA"
-      },
-      {
-        "id": 1395,
-        "municipio": "CHIQUIZA"
-      },
-      {
-        "id": 1383,
-        "municipio": "CHISCAS"
-      },
-      {
-        "id": 1384,
-        "municipio": "CHITA"
-      },
-      {
-        "id": 1385,
-        "municipio": "CHITARAQUE"
-      },
-      {
-        "id": 1386,
-        "municipio": "CHIVATA"
-      },
-      {
-        "id": 1396,
-        "municipio": "CHIVOR"
-      },
-      {
-        "id": 1387,
-        "municipio": "CIENEGA"
-      },
-      {
-        "id": 1388,
-        "municipio": "COMBITA"
-      },
-      {
-        "id": 1389,
-        "municipio": "COPER"
-      },
-      {
-        "id": 1390,
-        "municipio": "CORRALES"
-      },
-      {
-        "id": 1391,
-        "municipio": "COVARACHIA"
-      },
-      {
-        "id": 1392,
-        "municipio": "CUBARA"
-      },
-      {
-        "id": 1393,
-        "municipio": "CUCAITA"
-      },
-      {
-        "id": 1394,
-        "municipio": "CUITIVA"
-      },
-      {
-        "id": 1397,
-        "municipio": "DUITAMA"
-      },
-      {
-        "id": 1398,
-        "municipio": "EL COCUY"
-      },
-      {
-        "id": 1399,
-        "municipio": "EL ESPINO"
-      },
-      {
-        "id": 1400,
-        "municipio": "FIRAVITOBA"
-      },
-      {
-        "id": 1401,
-        "municipio": "FLORESTA"
-      },
-      {
-        "id": 1402,
-        "municipio": "GACHANTIVA"
-      },
-      {
-        "id": 1403,
-        "municipio": "GAMEZA"
-      },
-      {
-        "id": 1404,
-        "municipio": "GARAGOA"
-      },
-      {
-        "id": 1405,
-        "municipio": "GUACAMAYAS"
-      },
-      {
-        "id": 1406,
-        "municipio": "GUATEQUE"
-      },
-      {
-        "id": 1407,
-        "municipio": "GUAYATA"
-      },
-      {
-        "id": 1408,
-        "municipio": "GÜICÁN"
-      },
-      {
-        "id": 1409,
-        "municipio": "IZA"
-      },
-      {
-        "id": 1410,
-        "municipio": "JENESANO"
-      },
-      {
-        "id": 1411,
-        "municipio": "JERICO"
-      },
-      {
-        "id": 1413,
-        "municipio": "LA CAPILLA"
-      },
-      {
-        "id": 1415,
-        "municipio": "LA UVITA"
-      },
-      {
-        "id": 1414,
-        "municipio": "LA VICTORIA"
-      },
-      {
-        "id": 1412,
-        "municipio": "LABRANZAGRANDE"
-      },
-      {
-        "id": 1417,
-        "municipio": "MACANAL"
-      },
-      {
-        "id": 1418,
-        "municipio": "MARIPI"
-      },
-      {
-        "id": 1419,
-        "municipio": "MIRAFLORES"
-      },
-      {
-        "id": 1420,
-        "municipio": "MONGUA"
-      },
-      {
-        "id": 1421,
-        "municipio": "MONGUI"
-      },
-      {
-        "id": 1422,
-        "municipio": "MONIQUIRA"
-      },
-      {
-        "id": 1423,
-        "municipio": "MOTAVITA"
-      },
-      {
-        "id": 1424,
-        "municipio": "MUZO"
-      },
-      {
-        "id": 1425,
-        "municipio": "NOBSA"
-      },
-      {
-        "id": 1426,
-        "municipio": "NUEVO COLON"
-      },
-      {
-        "id": 1427,
-        "municipio": "OICATA"
-      },
-      {
-        "id": 1428,
-        "municipio": "OTANCHE"
-      },
-      {
-        "id": 1429,
-        "municipio": "PACHAVITA"
-      },
-      {
-        "id": 1430,
-        "municipio": "PAEZ"
-      },
-      {
-        "id": 1431,
-        "municipio": "PAIPA"
-      },
-      {
-        "id": 1432,
-        "municipio": "PAJARITO"
-      },
-      {
-        "id": 1433,
-        "municipio": "PANQUEBA"
-      },
-      {
-        "id": 1434,
-        "municipio": "PAUNA"
-      },
-      {
-        "id": 1435,
-        "municipio": "PAYA"
-      },
-      {
-        "id": 1436,
-        "municipio": "PAZ DE RIO"
-      },
-      {
-        "id": 1437,
-        "municipio": "PESCA"
-      },
-      {
-        "id": 1438,
-        "municipio": "PISBA"
-      },
-      {
-        "id": 1439,
-        "municipio": "PUERTO BOYACA"
-      },
-      {
-        "id": 1440,
-        "municipio": "QUIPAMA"
-      },
-      {
-        "id": 1441,
-        "municipio": "RAMIRIQUI"
-      },
-      {
-        "id": 1442,
-        "municipio": "RAQUIRA"
-      },
-      {
-        "id": 1443,
-        "municipio": "RONDON"
-      },
-      {
-        "id": 1444,
-        "municipio": "SABOYA"
-      },
-      {
-        "id": 1445,
-        "municipio": "SACHICA"
-      },
-      {
-        "id": 1446,
-        "municipio": "SAMACA"
-      },
-      {
-        "id": 1447,
-        "municipio": "SAN EDUARDO"
-      },
-      {
-        "id": 1448,
-        "municipio": "SAN JOSE DE PARE"
-      },
-      {
-        "id": 1449,
-        "municipio": "SAN LUIS DE GACENO"
-      },
-      {
-        "id": 1450,
-        "municipio": "SAN MATEO"
-      },
-      {
-        "id": 1451,
-        "municipio": "SAN MIGUEL DE SEMA"
-      },
-      {
-        "id": 1452,
-        "municipio": "SAN PABLO DE BORBUR"
-      },
-      {
-        "id": 1454,
-        "municipio": "SANTA MARIA"
-      },
-      {
-        "id": 1455,
-        "municipio": "SANTA ROSA DE VITERBO"
-      },
-      {
-        "id": 1456,
-        "municipio": "SANTA SOFIA"
-      },
-      {
-        "id": 1453,
-        "municipio": "SANTANA"
-      },
-      {
-        "id": 1457,
-        "municipio": "SATIVANORTE"
-      },
-      {
-        "id": 1458,
-        "municipio": "SATIVASUR"
-      },
-      {
-        "id": 1459,
-        "municipio": "SIACHOQUE"
-      },
-      {
-        "id": 1460,
-        "municipio": "SOATA"
-      },
-      {
-        "id": 1462,
-        "municipio": "SOCHA"
-      },
-      {
-        "id": 1461,
-        "municipio": "SOCOTA"
-      },
-      {
-        "id": 1463,
-        "municipio": "SOGAMOSO"
-      },
-      {
-        "id": 1464,
-        "municipio": "SOMONDOCO"
-      },
-      {
-        "id": 1465,
-        "municipio": "SORA"
-      },
-      {
-        "id": 1467,
-        "municipio": "SORACA"
-      },
-      {
-        "id": 1466,
-        "municipio": "SOTAQUIRA"
-      },
-      {
-        "id": 1468,
-        "municipio": "SUSACON"
-      },
-      {
-        "id": 1469,
-        "municipio": "SUTAMARCHAN"
-      },
-      {
-        "id": 1470,
-        "municipio": "SUTATENZA"
-      },
-      {
-        "id": 1471,
-        "municipio": "TASCO"
-      },
-      {
-        "id": 1472,
-        "municipio": "TENZA"
-      },
-      {
-        "id": 1473,
-        "municipio": "TIBANA"
-      },
-      {
-        "id": 1474,
-        "municipio": "TIBASOSA"
-      },
-      {
-        "id": 1475,
-        "municipio": "TINJACA"
-      },
-      {
-        "id": 1476,
-        "municipio": "TIPACOQUE"
-      },
-      {
-        "id": 1477,
-        "municipio": "TOCA"
-      },
-      {
-        "id": 1478,
-        "municipio": "TOGÜÍ"
-      },
-      {
-        "id": 1479,
-        "municipio": "TOPAGA"
-      },
-      {
-        "id": 1480,
-        "municipio": "TOTA"
-      },
-      {
-        "id": 1366,
-        "municipio": "TUNJA"
-      },
-      {
-        "id": 1481,
-        "municipio": "TUNUNGUA"
-      },
-      {
-        "id": 1482,
-        "municipio": "TURMEQUE"
-      },
-      {
-        "id": 1483,
-        "municipio": "TUTA"
-      },
-      {
-        "id": 1484,
-        "municipio": "TUTAZA"
-      },
-      {
-        "id": 1485,
-        "municipio": "UMBITA"
-      },
-      {
-        "id": 1486,
-        "municipio": "VENTAQUEMADA"
-      },
-      {
-        "id": 1416,
-        "municipio": "VILLA DE LEYVA"
-      },
-      {
-        "id": 1487,
-        "municipio": "VIRACACHA"
-      },
-      {
-        "id": 1488,
-        "municipio": "ZETAQUIRA"
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "departamento": "CALDAS",
-    "listaMunicipios": [
-      {
-        "id": 1490,
-        "municipio": "AGUADAS"
-      },
-      {
-        "id": 1491,
-        "municipio": "ANSERMA"
-      },
-      {
-        "id": 1492,
-        "municipio": "ARANZAZU"
-      },
-      {
-        "id": 1493,
-        "municipio": "BELALCAZAR"
-      },
-      {
-        "id": 1494,
-        "municipio": "CHINCHINA"
-      },
-      {
-        "id": 1495,
-        "municipio": "FILADELFIA"
-      },
-      {
-        "id": 1496,
-        "municipio": "LA DORADA"
-      },
-      {
-        "id": 1497,
-        "municipio": "LA MERCED"
-      },
-      {
-        "id": 1489,
-        "municipio": "MANIZALES"
-      },
-      {
-        "id": 1498,
-        "municipio": "MANZANARES"
-      },
-      {
-        "id": 1499,
-        "municipio": "MARMATO"
-      },
-      {
-        "id": 1500,
-        "municipio": "MARQUETALIA"
-      },
-      {
-        "id": 1501,
-        "municipio": "MARULANDA"
-      },
-      {
-        "id": 1502,
-        "municipio": "NEIRA"
-      },
-      {
-        "id": 1503,
-        "municipio": "NORCASIA"
-      },
-      {
-        "id": 1504,
-        "municipio": "PACORA"
-      },
-      {
-        "id": 1505,
-        "municipio": "PALESTINA"
-      },
-      {
-        "id": 1506,
-        "municipio": "PENSILVANIA"
-      },
-      {
-        "id": 1507,
-        "municipio": "RIOSUCIO"
-      },
-      {
-        "id": 1508,
-        "municipio": "RISARALDA"
-      },
-      {
-        "id": 1509,
-        "municipio": "SALAMINA"
-      },
-      {
-        "id": 1510,
-        "municipio": "SAMANA"
-      },
-      {
-        "id": 1511,
-        "municipio": "SAN JOSE"
-      },
-      {
-        "id": 1512,
-        "municipio": "SUPIA"
-      },
-      {
-        "id": 1513,
-        "municipio": "VICTORIA"
-      },
-      {
-        "id": 1514,
-        "municipio": "VILLAMARIA"
-      },
-      {
-        "id": 1515,
-        "municipio": "VITERBO"
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "departamento": "CAQUETA",
-    "listaMunicipios": [
-      {
-        "id": 1517,
-        "municipio": "ALBANIA"
-      },
-      {
-        "id": 1518,
-        "municipio": "BELEN DE LOS ANDAQUIES"
-      },
-      {
-        "id": 1519,
-        "municipio": "CARTAGENA DEL CHAIRA"
-      },
-      {
-        "id": 1520,
-        "municipio": "CURILLO"
-      },
-      {
-        "id": 1521,
-        "municipio": "EL DONCELLO"
-      },
-      {
-        "id": 1522,
-        "municipio": "EL PAUJIL"
-      },
-      {
-        "id": 1516,
-        "municipio": "FLORENCIA"
-      },
-      {
-        "id": 1524,
-        "municipio": "MILAN"
-      },
-      {
-        "id": 1523,
-        "municipio": "MONTAÑITA"
-      },
-      {
-        "id": 1525,
-        "municipio": "MORELIA"
-      },
-      {
-        "id": 1526,
-        "municipio": "PUERTO RICO"
-      },
-      {
-        "id": 1527,
-        "municipio": "SAN JOSE DEL FRAGUA"
-      },
-      {
-        "id": 1528,
-        "municipio": "SAN VICENTE DEL CAGUAN"
-      },
-      {
-        "id": 1529,
-        "municipio": "SOLANO"
-      },
-      {
-        "id": 1530,
-        "municipio": "SOLITA"
-      },
-      {
-        "id": 1531,
-        "municipio": "VALPARAISO"
-      }
-    ]
-  },
-  {
-    "id": 41,
-    "departamento": "CAUCA",
-    "listaMunicipios": [
-      {
-        "id": 1533,
-        "municipio": "ALMAGUER"
-      },
-      {
-        "id": 1534,
-        "municipio": "ARGELIA"
-      },
-      {
-        "id": 1535,
-        "municipio": "BALBOA"
-      },
-      {
-        "id": 1536,
-        "municipio": "BOLIVAR"
-      },
-      {
-        "id": 1537,
-        "municipio": "BUENOS AIRES"
-      },
-      {
-        "id": 1538,
-        "municipio": "CAJIBIO"
-      },
-      {
-        "id": 1539,
-        "municipio": "CALDONO"
-      },
-      {
-        "id": 1540,
-        "municipio": "CALOTO"
-      },
-      {
-        "id": 1541,
-        "municipio": "CORINTO"
-      },
-      {
-        "id": 1542,
-        "municipio": "EL TAMBO"
-      },
-      {
-        "id": 1543,
-        "municipio": "FLORENCIA"
-      },
-      {
-        "id": 1544,
-        "municipio": "GUACHENE"
-      },
-      {
-        "id": 1545,
-        "municipio": "GUAPI"
-      },
-      {
-        "id": 1546,
-        "municipio": "INZA"
-      },
-      {
-        "id": 1547,
-        "municipio": "JAMBALO"
-      },
-      {
-        "id": 1548,
-        "municipio": "LA SIERRA"
-      },
-      {
-        "id": 1549,
-        "municipio": "LA VEGA"
-      },
-      {
-        "id": 1550,
-        "municipio": "LOPEZ"
-      },
-      {
-        "id": 1551,
-        "municipio": "MERCADERES"
-      },
-      {
-        "id": 1552,
-        "municipio": "MIRANDA"
-      },
-      {
-        "id": 1553,
-        "municipio": "MORALES"
-      },
-      {
-        "id": 1554,
-        "municipio": "PADILLA"
-      },
-      {
-        "id": 1555,
-        "municipio": "PAEZ"
-      },
-      {
-        "id": 1556,
-        "municipio": "PATIA"
-      },
-      {
-        "id": 1557,
-        "municipio": "PIAMONTE"
-      },
-      {
-        "id": 1558,
-        "municipio": "PIENDAMO"
-      },
-      {
-        "id": 1532,
-        "municipio": "POPAYAN"
-      },
-      {
-        "id": 1559,
-        "municipio": "PUERTO TEJADA"
-      },
-      {
-        "id": 1560,
-        "municipio": "PURACE"
-      },
-      {
-        "id": 1561,
-        "municipio": "ROSAS"
-      },
-      {
-        "id": 1562,
-        "municipio": "SAN SEBASTIAN"
-      },
-      {
-        "id": 1564,
-        "municipio": "SANTA ROSA"
-      },
-      {
-        "id": 1563,
-        "municipio": "SANTANDER DE QUILICHAO"
-      },
-      {
-        "id": 1565,
-        "municipio": "SILVIA"
-      },
-      {
-        "id": 1566,
-        "municipio": "SOTARA"
-      },
-      {
-        "id": 1567,
-        "municipio": "SUAREZ"
-      },
-      {
-        "id": 1568,
-        "municipio": "SUCRE"
-      },
-      {
-        "id": 1569,
-        "municipio": "TIMBIO"
-      },
-      {
-        "id": 1570,
-        "municipio": "TIMBIQUI"
-      },
-      {
-        "id": 1571,
-        "municipio": "TORIBIO"
-      },
-      {
-        "id": 1572,
-        "municipio": "TOTORO"
-      },
-      {
-        "id": 1573,
-        "municipio": "VILLA RICA"
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "departamento": "CESAR",
-    "listaMunicipios": [
-      {
-        "id": 1575,
-        "municipio": "AGUACHICA"
-      },
-      {
-        "id": 1576,
-        "municipio": "AGUSTIN CODAZZI"
-      },
-      {
-        "id": 1577,
-        "municipio": "ASTREA"
-      },
-      {
-        "id": 1578,
-        "municipio": "BECERRIL"
-      },
-      {
-        "id": 1579,
-        "municipio": "BOSCONIA"
-      },
-      {
-        "id": 1580,
-        "municipio": "CHIMICHAGUA"
-      },
-      {
-        "id": 1581,
-        "municipio": "CHIRIGUANA"
-      },
-      {
-        "id": 1582,
-        "municipio": "CURUMANI"
-      },
-      {
-        "id": 1583,
-        "municipio": "EL COPEY"
-      },
-      {
-        "id": 1584,
-        "municipio": "EL PASO"
-      },
-      {
-        "id": 1585,
-        "municipio": "GAMARRA"
-      },
-      {
-        "id": 1586,
-        "municipio": "GONZALEZ"
-      },
-      {
-        "id": 1587,
-        "municipio": "LA GLORIA"
-      },
-      {
-        "id": 1588,
-        "municipio": "LA JAGUA DE IBIRICO"
-      },
-      {
-        "id": 1594,
-        "municipio": "LA PAZ"
-      },
-      {
-        "id": 1589,
-        "municipio": "MANAURE"
-      },
-      {
-        "id": 1590,
-        "municipio": "PAILITAS"
-      },
-      {
-        "id": 1591,
-        "municipio": "PELAYA"
-      },
-      {
-        "id": 1592,
-        "municipio": "PUEBLO BELLO"
-      },
-      {
-        "id": 1593,
-        "municipio": "RIO DE ORO"
-      },
-      {
-        "id": 1595,
-        "municipio": "SAN ALBERTO"
-      },
-      {
-        "id": 1596,
-        "municipio": "SAN DIEGO"
-      },
-      {
-        "id": 1597,
-        "municipio": "SAN MARTIN"
-      },
-      {
-        "id": 1598,
-        "municipio": "TAMALAMEQUE"
-      },
-      {
-        "id": 1574,
-        "municipio": "VALLEDUPAR"
-      }
-    ]
-  },
-  {
-    "id": 43,
-    "departamento": "CORDOBA",
-    "listaMunicipios": [
-      {
-        "id": 1600,
-        "municipio": "AYAPEL"
-      },
-      {
-        "id": 1601,
-        "municipio": "BUENAVISTA"
-      },
-      {
-        "id": 1602,
-        "municipio": "CANALETE"
-      },
-      {
-        "id": 1603,
-        "municipio": "CERETE"
-      },
-      {
-        "id": 1604,
-        "municipio": "CHIMA"
-      },
-      {
-        "id": 1605,
-        "municipio": "CHINU"
-      },
-      {
-        "id": 1606,
-        "municipio": "CIENAGA DE ORO"
-      },
-      {
-        "id": 1607,
-        "municipio": "COTORRA"
-      },
-      {
-        "id": 1608,
-        "municipio": "LA APARTADA"
-      },
-      {
-        "id": 1609,
-        "municipio": "LORICA"
-      },
-      {
-        "id": 1610,
-        "municipio": "LOS CORDOBAS"
-      },
-      {
-        "id": 1611,
-        "municipio": "MOMIL"
-      },
-      {
-        "id": 1612,
-        "municipio": "MONTELIBANO"
-      },
-      {
-        "id": 1599,
-        "municipio": "MONTERIA"
-      },
-      {
-        "id": 1613,
-        "municipio": "MOÑITOS"
-      },
-      {
-        "id": 1614,
-        "municipio": "PLANETA RICA"
-      },
-      {
-        "id": 1615,
-        "municipio": "PUEBLO NUEVO"
-      },
-      {
-        "id": 1616,
-        "municipio": "PUERTO ESCONDIDO"
-      },
-      {
-        "id": 1617,
-        "municipio": "PUERTO LIBERTADOR"
-      },
-      {
-        "id": 1618,
-        "municipio": "PURISIMA"
-      },
-      {
-        "id": 1619,
-        "municipio": "SAHAGUN"
-      },
-      {
-        "id": 1620,
-        "municipio": "SAN ANDRES DE SOTAVENTO"
-      },
-      {
-        "id": 1621,
-        "municipio": "SAN ANTERO"
-      },
-      {
-        "id": 1622,
-        "municipio": "SAN BERNARDO DEL VIENTO"
-      },
-      {
-        "id": 1623,
-        "municipio": "SAN CARLOS"
-      },
-      {
-        "id": 1624,
-        "municipio": "SAN JOSÉ DE URABÁ"
-      },
-      {
-        "id": 1625,
-        "municipio": "SAN PELAYO"
-      },
-      {
-        "id": 1626,
-        "municipio": "TIERRALTA"
-      },
-      {
-        "id": 1627,
-        "municipio": "TUCHIN"
-      },
-      {
-        "id": 1628,
-        "municipio": "VALENCIA"
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "departamento": "CUNDINAMARCA",
-    "listaMunicipios": [
-      {
-        "id": 1629,
-        "municipio": "AGUA DE DIOS"
-      },
-      {
-        "id": 1630,
-        "municipio": "ALBAN"
-      },
-      {
-        "id": 1631,
-        "municipio": "ANAPOIMA"
-      },
-      {
-        "id": 1632,
-        "municipio": "ANOLAIMA"
-      },
-      {
-        "id": 1703,
-        "municipio": "APULO"
-      },
-      {
-        "id": 1633,
-        "municipio": "ARBELAEZ"
-      },
-      {
-        "id": 1634,
-        "municipio": "BELTRAN"
-      },
-      {
-        "id": 1635,
-        "municipio": "BITUIMA"
-      },
-      {
-        "id": 1636,
-        "municipio": "BOJACA"
-      },
-      {
-        "id": 1637,
-        "municipio": "CABRERA"
-      },
-      {
-        "id": 1638,
-        "municipio": "CACHIPAY"
-      },
-      {
-        "id": 1639,
-        "municipio": "CAJICA"
-      },
-      {
-        "id": 1640,
-        "municipio": "CAPARRAPI"
-      },
-      {
-        "id": 1641,
-        "municipio": "CAQUEZA"
-      },
-      {
-        "id": 1642,
-        "municipio": "CARMEN DE CARUPA"
-      },
-      {
-        "id": 1643,
-        "municipio": "CHAGUANI"
-      },
-      {
-        "id": 1644,
-        "municipio": "CHIA"
-      },
-      {
-        "id": 1645,
-        "municipio": "CHIPAQUE"
-      },
-      {
-        "id": 1646,
-        "municipio": "CHOACHI"
-      },
-      {
-        "id": 1647,
-        "municipio": "CHOCONTA"
-      },
-      {
-        "id": 1648,
-        "municipio": "COGUA"
-      },
-      {
-        "id": 1649,
-        "municipio": "COTA"
-      },
-      {
-        "id": 1650,
-        "municipio": "CUCUNUBA"
-      },
-      {
-        "id": 1651,
-        "municipio": "EL COLEGIO"
-      },
-      {
-        "id": 1652,
-        "municipio": "EL PEÃ‘ON"
-      },
-      {
-        "id": 1653,
-        "municipio": "EL ROSAL"
-      },
-      {
-        "id": 1654,
-        "municipio": "FACATATIVA"
-      },
-      {
-        "id": 1655,
-        "municipio": "FOMEQUE"
-      },
-      {
-        "id": 1656,
-        "municipio": "FOSCA"
-      },
-      {
-        "id": 1657,
-        "municipio": "FUNZA"
-      },
-      {
-        "id": 1658,
-        "municipio": "FUQUENE"
-      },
-      {
-        "id": 1659,
-        "municipio": "FUSAGASUGA"
-      },
-      {
-        "id": 1660,
-        "municipio": "GACHALA"
-      },
-      {
-        "id": 1661,
-        "municipio": "GACHANCIPA"
-      },
-      {
-        "id": 1662,
-        "municipio": "GACHETA"
-      },
-      {
-        "id": 1663,
-        "municipio": "GAMA"
-      },
-      {
-        "id": 1664,
-        "municipio": "GIRARDOT"
-      },
-      {
-        "id": 1665,
-        "municipio": "GRANADA"
-      },
-      {
-        "id": 1666,
-        "municipio": "GUACHETA"
-      },
-      {
-        "id": 1667,
-        "municipio": "GUADUAS"
-      },
-      {
-        "id": 1668,
-        "municipio": "GUASCA"
-      },
-      {
-        "id": 1669,
-        "municipio": "GUATAQUI"
-      },
-      {
-        "id": 1670,
-        "municipio": "GUATAVITA"
-      },
-      {
-        "id": 1671,
-        "municipio": "GUAYABAL DE SIQUIMA"
-      },
-      {
-        "id": 1672,
-        "municipio": "GUAYABETAL"
-      },
-      {
-        "id": 1673,
-        "municipio": "GUTIERREZ"
-      },
-      {
-        "id": 1674,
-        "municipio": "JERUSALEN"
-      },
-      {
-        "id": 1675,
-        "municipio": "JUNIN"
-      },
-      {
-        "id": 1676,
-        "municipio": "LA CALERA"
-      },
-      {
-        "id": 1677,
-        "municipio": "LA MESA"
-      },
-      {
-        "id": 1678,
-        "municipio": "LA PALMA"
-      },
-      {
-        "id": 1679,
-        "municipio": "LA PEÑA"
-      },
-      {
-        "id": 1680,
-        "municipio": "LA VEGA"
-      },
-      {
-        "id": 1681,
-        "municipio": "LENGUAZAQUE"
-      },
-      {
-        "id": 1682,
-        "municipio": "MACHETA"
-      },
-      {
-        "id": 1683,
-        "municipio": "MADRID"
-      },
-      {
-        "id": 1684,
-        "municipio": "MANTA"
-      },
-      {
-        "id": 1685,
-        "municipio": "MEDINA"
-      },
-      {
-        "id": 1686,
-        "municipio": "MOSQUERA"
-      },
-      {
-        "id": 1687,
-        "municipio": "NARIÑO"
-      },
-      {
-        "id": 1688,
-        "municipio": "NEMOCON"
-      },
-      {
-        "id": 1689,
-        "municipio": "NILO"
-      },
-      {
-        "id": 1690,
-        "municipio": "NIMAIMA"
-      },
-      {
-        "id": 1691,
-        "municipio": "NOCAIMA"
-      },
-      {
-        "id": 1693,
-        "municipio": "PACHO"
-      },
-      {
-        "id": 1694,
-        "municipio": "PAIME"
-      },
-      {
-        "id": 1695,
-        "municipio": "PANDI"
-      },
-      {
-        "id": 1696,
-        "municipio": "PARATEBUENO"
-      },
-      {
-        "id": 1697,
-        "municipio": "PASCA"
-      },
-      {
-        "id": 1698,
-        "municipio": "PUERTO SALGAR"
-      },
-      {
-        "id": 1699,
-        "municipio": "PULI"
-      },
-      {
-        "id": 1700,
-        "municipio": "QUEBRADANEGRA"
-      },
-      {
-        "id": 1701,
-        "municipio": "QUETAME"
-      },
-      {
-        "id": 1702,
-        "municipio": "QUIPILE"
-      },
-      {
-        "id": 1704,
-        "municipio": "RICAURTE"
-      },
-      {
-        "id": 1705,
-        "municipio": "SAN ANTONIO DELTEQUENDAMA"
-      },
-      {
-        "id": 1706,
-        "municipio": "SAN BERNARDO"
-      },
-      {
-        "id": 1707,
-        "municipio": "SAN CAYETANO"
-      },
-      {
-        "id": 1708,
-        "municipio": "SAN FRANCISCO"
-      },
-      {
-        "id": 1709,
-        "municipio": "SAN JUAN DE RIO SECO"
-      },
-      {
-        "id": 1710,
-        "municipio": "SASAIMA"
-      },
-      {
-        "id": 1711,
-        "municipio": "SESQUILE"
-      },
-      {
-        "id": 1712,
-        "municipio": "SIBATE"
-      },
-      {
-        "id": 1713,
-        "municipio": "SILVANIA"
-      },
-      {
-        "id": 1714,
-        "municipio": "SIMIJACA"
-      },
-      {
-        "id": 1715,
-        "municipio": "SOACHA"
-      },
-      {
-        "id": 1716,
-        "municipio": "SOPO"
-      },
-      {
-        "id": 1717,
-        "municipio": "SUBACHOQUE"
-      },
-      {
-        "id": 1718,
-        "municipio": "SUESCA"
-      },
-      {
-        "id": 1719,
-        "municipio": "SUPATA"
-      },
-      {
-        "id": 1720,
-        "municipio": "SUSA"
-      },
-      {
-        "id": 1721,
-        "municipio": "SUTATAUSA"
-      },
-      {
-        "id": 1722,
-        "municipio": "TABIO"
-      },
-      {
-        "id": 1723,
-        "municipio": "TAUSA"
-      },
-      {
-        "id": 1724,
-        "municipio": "TENA"
-      },
-      {
-        "id": 1725,
-        "municipio": "TENJO"
-      },
-      {
-        "id": 1726,
-        "municipio": "TIBACUY"
-      },
-      {
-        "id": 1727,
-        "municipio": "TIBIRITA"
-      },
-      {
-        "id": 1728,
-        "municipio": "TOCAIMA"
-      },
-      {
-        "id": 1729,
-        "municipio": "TOCANCIPA"
-      },
-      {
-        "id": 1730,
-        "municipio": "TOPAIPI"
-      },
-      {
-        "id": 1731,
-        "municipio": "UBALA"
-      },
-      {
-        "id": 1732,
-        "municipio": "UBAQUE"
-      },
-      {
-        "id": 1733,
-        "municipio": "UBATE"
-      },
-      {
-        "id": 1734,
-        "municipio": "UNE"
-      },
-      {
-        "id": 1735,
-        "municipio": "UTICA"
-      },
-      {
-        "id": 1692,
-        "municipio": "VENECIA"
-      },
-      {
-        "id": 1736,
-        "municipio": "VERGARA"
-      },
-      {
-        "id": 1737,
-        "municipio": "VIANI"
-      },
-      {
-        "id": 1738,
-        "municipio": "VILLAGOMEZ"
-      },
-      {
-        "id": 1739,
-        "municipio": "VILLAPINZON"
-      },
-      {
-        "id": 1740,
-        "municipio": "VILLETA"
-      },
-      {
-        "id": 1741,
-        "municipio": "VIOTA"
-      },
-      {
-        "id": 1742,
-        "municipio": "YACOPI"
-      },
-      {
-        "id": 1743,
-        "municipio": "ZIPACON"
-      },
-      {
-        "id": 1744,
-        "municipio": "ZIPAQUIRA"
-      }
-    ]
-  },
-  {
-    "id": 45,
-    "departamento": "CHOCO",
-    "listaMunicipios": [
-      {
-        "id": 1746,
-        "municipio": "ACANDI"
-      },
-      {
-        "id": 1747,
-        "municipio": "ALTO BAUDO"
-      },
-      {
-        "id": 1748,
-        "municipio": "ATRATO"
-      },
-      {
-        "id": 1749,
-        "municipio": "BAGADO"
-      },
-      {
-        "id": 1750,
-        "municipio": "BAHIA SOLANO"
-      },
-      {
-        "id": 1751,
-        "municipio": "BAJO BAUDO"
-      },
-      {
-        "id": 1752,
-        "municipio": "BOJAYA"
-      },
-      {
-        "id": 1755,
-        "municipio": "CERTEGUI"
-      },
-      {
-        "id": 1756,
-        "municipio": "CONDOTO"
-      },
-      {
-        "id": 1753,
-        "municipio": "EL CANTON DEL SAN PABLO"
-      },
-      {
-        "id": 1757,
-        "municipio": "EL CARMEN DE ATRATO"
-      },
-      {
-        "id": 1754,
-        "municipio": "EL CARMEN DEL DARIEN"
-      },
-      {
-        "id": 1758,
-        "municipio": "EL LITORAL DEL SAN JUAN"
-      },
-      {
-        "id": 1759,
-        "municipio": "ISTMINA"
-      },
-      {
-        "id": 1760,
-        "municipio": "JURADO"
-      },
-      {
-        "id": 1761,
-        "municipio": "LLORO"
-      },
-      {
-        "id": 1762,
-        "municipio": "MEDIO ATRATO"
-      },
-      {
-        "id": 1763,
-        "municipio": "MEDIO BAUDO"
-      },
-      {
-        "id": 1764,
-        "municipio": "MEDIO SAN JUAN"
-      },
-      {
-        "id": 1765,
-        "municipio": "NOVITA"
-      },
-      {
-        "id": 1766,
-        "municipio": "NUQUI"
-      },
-      {
-        "id": 1745,
-        "municipio": "QUIBDO"
-      },
-      {
-        "id": 1767,
-        "municipio": "RIO IRO"
-      },
-      {
-        "id": 1768,
-        "municipio": "RIO QUITO"
-      },
-      {
-        "id": 1769,
-        "municipio": "RIOSUCIO"
-      },
-      {
-        "id": 1770,
-        "municipio": "SAN JOSE DEL PALMAR"
-      },
-      {
-        "id": 1771,
-        "municipio": "SIPI"
-      },
-      {
-        "id": 1772,
-        "municipio": "TADO"
-      },
-      {
-        "id": 1773,
-        "municipio": "UNGUIA"
-      },
-      {
-        "id": 1774,
-        "municipio": "UNION PANAMERICANA"
-      }
-    ]
-  },
-  {
-    "id": 46,
-    "departamento": "HUILA",
-    "listaMunicipios": [
-      {
-        "id": 1776,
-        "municipio": "ACEVEDO"
-      },
-      {
-        "id": 1777,
-        "municipio": "AGRADO"
-      },
-      {
-        "id": 1778,
-        "municipio": "AIPE"
-      },
-      {
-        "id": 1779,
-        "municipio": "ALGECIRAS"
-      },
-      {
-        "id": 1780,
-        "municipio": "ALTAMIRA"
-      },
-      {
-        "id": 1781,
-        "municipio": "BARAYA"
-      },
-      {
-        "id": 1782,
-        "municipio": "CAMPOALEGRE"
-      },
-      {
-        "id": 1783,
-        "municipio": "COLOMBIA"
-      },
-      {
-        "id": 1784,
-        "municipio": "ELIAS"
-      },
-      {
-        "id": 1785,
-        "municipio": "GARZON"
-      },
-      {
-        "id": 1786,
-        "municipio": "GIGANTE"
-      },
-      {
-        "id": 1787,
-        "municipio": "GUADALUPE"
-      },
-      {
-        "id": 1788,
-        "municipio": "HOBO"
-      },
-      {
-        "id": 1789,
-        "municipio": "IQUIRA"
-      },
-      {
-        "id": 1790,
-        "municipio": "ISNOS"
-      },
-      {
-        "id": 1791,
-        "municipio": "LA ARGENTINA"
-      },
-      {
-        "id": 1792,
-        "municipio": "LA PLATA"
-      },
-      {
-        "id": 1793,
-        "municipio": "NATAGA"
-      },
-      {
-        "id": 1775,
-        "municipio": "NEIVA"
-      },
-      {
-        "id": 1794,
-        "municipio": "OPORAPA"
-      },
-      {
-        "id": 1795,
-        "municipio": "PAICOL"
-      },
-      {
-        "id": 1796,
-        "municipio": "PALERMO"
-      },
-      {
-        "id": 1797,
-        "municipio": "PALESTINA"
-      },
-      {
-        "id": 1798,
-        "municipio": "PITAL"
-      },
-      {
-        "id": 1799,
-        "municipio": "PITALITO"
-      },
-      {
-        "id": 1800,
-        "municipio": "RIVERA"
-      },
-      {
-        "id": 1801,
-        "municipio": "SALADOBLANCO"
-      },
-      {
-        "id": 1802,
-        "municipio": "SAN AGUSTIN"
-      },
-      {
-        "id": 1803,
-        "municipio": "SANTA MARIA"
-      },
-      {
-        "id": 1804,
-        "municipio": "SUAZA"
-      },
-      {
-        "id": 1805,
-        "municipio": "TARQUI"
-      },
-      {
-        "id": 1807,
-        "municipio": "TELLO"
-      },
-      {
-        "id": 1808,
-        "municipio": "TERUEL"
-      },
-      {
-        "id": 1806,
-        "municipio": "TESALIA"
-      },
-      {
-        "id": 1809,
-        "municipio": "TIMANA"
-      },
-      {
-        "id": 1810,
-        "municipio": "VILLAVIEJA"
-      },
-      {
-        "id": 1811,
-        "municipio": "YAGUARA"
-      }
-    ]
-  },
-  {
-    "id": 47,
-    "departamento": "LA GUAJIRA",
-    "listaMunicipios": [
-      {
-        "id": 1813,
-        "municipio": "ALBANIA"
-      },
-      {
-        "id": 1814,
-        "municipio": "BARRANCAS"
-      },
-      {
-        "id": 1815,
-        "municipio": "DIBULLA"
-      },
-      {
-        "id": 1816,
-        "municipio": "DISTRACCION"
-      },
-      {
-        "id": 1817,
-        "municipio": "EL MOLINO"
-      },
-      {
-        "id": 1818,
-        "municipio": "FONSECA"
-      },
-      {
-        "id": 1819,
-        "municipio": "HATONUEVO"
-      },
-      {
-        "id": 1820,
-        "municipio": "LA JAGUA DEL PILAR"
-      },
-      {
-        "id": 1821,
-        "municipio": "MAICAO"
-      },
-      {
-        "id": 1822,
-        "municipio": "MANAURE"
-      },
-      {
-        "id": 1812,
-        "municipio": "RIOHACHA"
-      },
-      {
-        "id": 1823,
-        "municipio": "SAN JUAN DEL CESAR"
-      },
-      {
-        "id": 1824,
-        "municipio": "URIBIA"
-      },
-      {
-        "id": 1825,
-        "municipio": "URUMITA"
-      },
-      {
-        "id": 1826,
-        "municipio": "VILLANUEVA"
-      }
-    ]
-  },
-  {
-    "id": 48,
-    "departamento": "MAGDALENA",
-    "listaMunicipios": [
-      {
-        "id": 1828,
-        "municipio": "ALGARROBO"
-      },
-      {
-        "id": 1829,
-        "municipio": "ARACATACA"
-      },
-      {
-        "id": 1830,
-        "municipio": "ARIGUANI"
-      },
-      {
-        "id": 1831,
-        "municipio": "CERRO SAN ANTONIO"
-      },
-      {
-        "id": 1832,
-        "municipio": "CHIVOLO"
-      },
-      {
-        "id": 1833,
-        "municipio": "CIENAGA"
-      },
-      {
-        "id": 1834,
-        "municipio": "CONCORDIA"
-      },
-      {
-        "id": 1835,
-        "municipio": "EL BANCO"
-      },
-      {
-        "id": 1836,
-        "municipio": "EL PIÑON"
-      },
-      {
-        "id": 1837,
-        "municipio": "EL RETEN"
-      },
-      {
-        "id": 1838,
-        "municipio": "FUNDACION"
-      },
-      {
-        "id": 1839,
-        "municipio": "GUAMAL"
-      },
-      {
-        "id": 1840,
-        "municipio": "NUEVA GRANADA"
-      },
-      {
-        "id": 1841,
-        "municipio": "PEDRAZA"
-      },
-      {
-        "id": 1842,
-        "municipio": "PIJIÑO DEL CARMEN"
-      },
-      {
-        "id": 1843,
-        "municipio": "PIVIJAY"
-      },
-      {
-        "id": 1844,
-        "municipio": "PLATO"
-      },
-      {
-        "id": 1845,
-        "municipio": "PUEBLOVIEJO"
-      },
-      {
-        "id": 1846,
-        "municipio": "REMOLINO"
-      },
-      {
-        "id": 1847,
-        "municipio": "SABANAS DE SAN ANGEL"
-      },
-      {
-        "id": 1848,
-        "municipio": "SALAMINA"
-      },
-      {
-        "id": 1849,
-        "municipio": "SAN SEBASTIAN BUENAVISTA"
-      },
-      {
-        "id": 1850,
-        "municipio": "SAN ZENON"
-      },
-      {
-        "id": 1851,
-        "municipio": "SANTA ANA"
-      },
-      {
-        "id": 1852,
-        "municipio": "SANTA BARBARA DE PINTO"
-      },
-      {
-        "id": 1827,
-        "municipio": "SANTA MARTA"
-      },
-      {
-        "id": 1853,
-        "municipio": "SITIONUEVO"
-      },
-      {
-        "id": 1854,
-        "municipio": "TENERIFE"
-      },
-      {
-        "id": 1855,
-        "municipio": "ZAPAYAN"
-      },
-      {
-        "id": 1856,
-        "municipio": "ZONA BANANERA"
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "departamento": "META",
-    "listaMunicipios": [
-      {
-        "id": 1858,
-        "municipio": "ACACIAS"
-      },
-      {
-        "id": 1859,
-        "municipio": "BARRANCA DE UPIA"
-      },
-      {
-        "id": 1860,
-        "municipio": "CABUYARO"
-      },
-      {
-        "id": 1861,
-        "municipio": "CASTILLA LA NUEVA"
-      },
-      {
-        "id": 1863,
-        "municipio": "CUMARAL"
-      },
-      {
-        "id": 1864,
-        "municipio": "EL CALVARIO"
-      },
-      {
-        "id": 1865,
-        "municipio": "EL CASTILLO"
-      },
-      {
-        "id": 1866,
-        "municipio": "EL DORADO"
-      },
-      {
-        "id": 1867,
-        "municipio": "FUENTE DE ORO"
-      },
-      {
-        "id": 1868,
-        "municipio": "GRANADA"
-      },
-      {
-        "id": 1869,
-        "municipio": "GUAMAL"
-      },
-      {
-        "id": 1872,
-        "municipio": "LA MACARENA"
-      },
-      {
-        "id": 1874,
-        "municipio": "LEJANIAS"
-      },
-      {
-        "id": 1870,
-        "municipio": "MAPIRIPAN"
-      },
-      {
-        "id": 1871,
-        "municipio": "MESETAS"
-      },
-      {
-        "id": 1875,
-        "municipio": "PUERTO CONCORDIA"
-      },
-      {
-        "id": 1876,
-        "municipio": "PUERTO GAITAN"
-      },
-      {
-        "id": 1878,
-        "municipio": "PUERTO LLERAS"
-      },
-      {
-        "id": 1877,
-        "municipio": "PUERTO LOPEZ"
-      },
-      {
-        "id": 1879,
-        "municipio": "PUERTO RICO"
-      },
-      {
-        "id": 1880,
-        "municipio": "RESTREPO"
-      },
-      {
-        "id": 1881,
-        "municipio": "SAN CARLOS DE GUAROA"
-      },
-      {
-        "id": 1882,
-        "municipio": "SAN JUAN DE ARAMA"
-      },
-      {
-        "id": 1883,
-        "municipio": "SAN JUANITO"
-      },
-      {
-        "id": 1862,
-        "municipio": "SAN LUIS DE CUBARRAL"
-      },
-      {
-        "id": 1884,
-        "municipio": "SAN MARTIN"
-      },
-      {
-        "id": 1873,
-        "municipio": "URIBE"
-      },
-      {
-        "id": 1857,
-        "municipio": "VILLAVICENCIO"
-      },
-      {
-        "id": 1885,
-        "municipio": "VISTAHERMOSA"
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "departamento": "NARIÑO",
-    "listaMunicipios": [
-      {
-        "id": 1887,
-        "municipio": "ALBAN"
-      },
-      {
-        "id": 1888,
-        "municipio": "ALDANA"
-      },
-      {
-        "id": 1889,
-        "municipio": "ANCUYA"
-      },
-      {
-        "id": 1890,
-        "municipio": "ARBOLEDA"
-      },
-      {
-        "id": 1891,
-        "municipio": "BARBACOAS"
-      },
-      {
-        "id": 1892,
-        "municipio": "BELEN"
-      },
-      {
-        "id": 1893,
-        "municipio": "BUESACO"
-      },
-      {
-        "id": 1901,
-        "municipio": "CHACHAGÜÍ"
-      },
-      {
-        "id": 1894,
-        "municipio": "COLON"
-      },
-      {
-        "id": 1895,
-        "municipio": "CONSACA"
-      },
-      {
-        "id": 1896,
-        "municipio": "CONTADERO"
-      },
-      {
-        "id": 1897,
-        "municipio": "CORDOBA"
-      },
-      {
-        "id": 1898,
-        "municipio": "CUASPUD"
-      },
-      {
-        "id": 1899,
-        "municipio": "CUMBAL"
-      },
-      {
-        "id": 1900,
-        "municipio": "CUMBITARA"
-      },
-      {
-        "id": 1902,
-        "municipio": "EL CHARCO"
-      },
-      {
-        "id": 1903,
-        "municipio": "EL PEÑOL"
-      },
-      {
-        "id": 1904,
-        "municipio": "EL ROSARIO"
-      },
-      {
-        "id": 1905,
-        "municipio": "EL TABLON DE GOMEZ"
-      },
-      {
-        "id": 1906,
-        "municipio": "EL TAMBO"
-      },
-      {
-        "id": 1928,
-        "municipio": "FRANCISCO PIZARRO"
-      },
-      {
-        "id": 1907,
-        "municipio": "FUNES"
-      },
-      {
-        "id": 1908,
-        "municipio": "GUACHUCAL"
-      },
-      {
-        "id": 1909,
-        "municipio": "GUAITARILLA"
-      },
-      {
-        "id": 1910,
-        "municipio": "GUALMATAN"
-      },
-      {
-        "id": 1911,
-        "municipio": "ILES"
-      },
-      {
-        "id": 1912,
-        "municipio": "IMUES"
-      },
-      {
-        "id": 1913,
-        "municipio": "IPIALES"
-      },
-      {
-        "id": 1914,
-        "municipio": "LA CRUZ"
-      },
-      {
-        "id": 1915,
-        "municipio": "LA FLORIDA"
-      },
-      {
-        "id": 1916,
-        "municipio": "LA LLANADA"
-      },
-      {
-        "id": 1917,
-        "municipio": "LA TOLA"
-      },
-      {
-        "id": 1918,
-        "municipio": "LA UNION"
-      },
-      {
-        "id": 1919,
-        "municipio": "LEIVA"
-      },
-      {
-        "id": 1920,
-        "municipio": "LINARES"
-      },
-      {
-        "id": 1921,
-        "municipio": "LOS ANDES"
-      },
-      {
-        "id": 1922,
-        "municipio": "MAGÃœI"
-      },
-      {
-        "id": 1923,
-        "municipio": "MALLAMA"
-      },
-      {
-        "id": 1924,
-        "municipio": "MOSQUERA"
-      },
-      {
-        "id": 1925,
-        "municipio": "NARIÃ‘O"
-      },
-      {
-        "id": 1926,
-        "municipio": "OLAYA HERRERA"
-      },
-      {
-        "id": 1927,
-        "municipio": "OSPINA"
-      },
-      {
-        "id": 1886,
-        "municipio": "PASTO"
-      },
-      {
-        "id": 1929,
-        "municipio": "POLICARPA"
-      },
-      {
-        "id": 1930,
-        "municipio": "POTOSI"
-      },
-      {
-        "id": 1931,
-        "municipio": "PROVIDENCIA"
-      },
-      {
-        "id": 1932,
-        "municipio": "PUERRES"
-      },
-      {
-        "id": 1933,
-        "municipio": "PUPIALES"
-      },
-      {
-        "id": 1934,
-        "municipio": "RICAURTE"
-      },
-      {
-        "id": 1935,
-        "municipio": "ROBERTO PAYAN"
-      },
-      {
-        "id": 1936,
-        "municipio": "SAMANIEGO"
-      },
-      {
-        "id": 1947,
-        "municipio": "SAN ANDRES DE TUMACO"
-      },
-      {
-        "id": 1938,
-        "municipio": "SAN BERNARDO"
-      },
-      {
-        "id": 1939,
-        "municipio": "SAN LORENZO"
-      },
-      {
-        "id": 1940,
-        "municipio": "SAN PABLO"
-      },
-      {
-        "id": 1941,
-        "municipio": "SAN PEDRO DE CARTAGO"
-      },
-      {
-        "id": 1937,
-        "municipio": "SANDONA"
-      },
-      {
-        "id": 1942,
-        "municipio": "SANTA BARBARA"
-      },
-      {
-        "id": 1943,
-        "municipio": "SANTACRUZ"
-      },
-      {
-        "id": 1944,
-        "municipio": "SAPUYES"
-      },
-      {
-        "id": 1945,
-        "municipio": "TAMINANGO"
-      },
-      {
-        "id": 1946,
-        "municipio": "TANGUA"
-      },
-      {
-        "id": 1948,
-        "municipio": "TUQUERRES"
-      },
-      {
-        "id": 1949,
-        "municipio": "YACUANQUER"
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "departamento": "NORTE DE SANTANDER",
-    "listaMunicipios": [
-      {
-        "id": 1951,
-        "municipio": "ABREGO"
-      },
-      {
-        "id": 1952,
-        "municipio": "ARBOLEDAS"
-      },
-      {
-        "id": 1953,
-        "municipio": "BOCHALEMA"
-      },
-      {
-        "id": 1954,
-        "municipio": "BUCARASICA"
-      },
-      {
-        "id": 1956,
-        "municipio": "CACHIRA"
-      },
-      {
-        "id": 1955,
-        "municipio": "CACOTA"
-      },
-      {
-        "id": 1957,
-        "municipio": "CHINACOTA"
-      },
-      {
-        "id": 1958,
-        "municipio": "CHITAGA"
-      },
-      {
-        "id": 1959,
-        "municipio": "CONVENCION"
-      },
-      {
-        "id": 1950,
-        "municipio": "CUCUTA"
-      },
-      {
-        "id": 1960,
-        "municipio": "CUCUTILLA"
-      },
-      {
-        "id": 1961,
-        "municipio": "DURANIA"
-      },
-      {
-        "id": 1962,
-        "municipio": "EL CARMEN"
-      },
-      {
-        "id": 1963,
-        "municipio": "EL TARRA"
-      },
-      {
-        "id": 1964,
-        "municipio": "EL ZULIA"
-      },
-      {
-        "id": 1965,
-        "municipio": "GRAMALOTE"
-      },
-      {
-        "id": 1966,
-        "municipio": "HACARI"
-      },
-      {
-        "id": 1967,
-        "municipio": "HERRAN"
-      },
-      {
-        "id": 1969,
-        "municipio": "LA ESPERANZA"
-      },
-      {
-        "id": 1970,
-        "municipio": "LA PLAYA"
-      },
-      {
-        "id": 1968,
-        "municipio": "LABATECA"
-      },
-      {
-        "id": 1971,
-        "municipio": "LOS PATIOS"
-      },
-      {
-        "id": 1972,
-        "municipio": "LOURDES"
-      },
-      {
-        "id": 1973,
-        "municipio": "MUTISCUA"
-      },
-      {
-        "id": 1974,
-        "municipio": "OCAÑA"
-      },
-      {
-        "id": 1975,
-        "municipio": "PAMPLONA"
-      },
-      {
-        "id": 1976,
-        "municipio": "PAMPLONITA"
-      },
-      {
-        "id": 1977,
-        "municipio": "PUERTO SANTANDER"
-      },
-      {
-        "id": 1978,
-        "municipio": "RAGONVALIA"
-      },
-      {
-        "id": 1979,
-        "municipio": "SALAZAR"
-      },
-      {
-        "id": 1980,
-        "municipio": "SAN CALIXTO"
-      },
-      {
-        "id": 1981,
-        "municipio": "SAN CAYETANO"
-      },
-      {
-        "id": 1982,
-        "municipio": "SANTIAGO"
-      },
-      {
-        "id": 1983,
-        "municipio": "SARDINATA"
-      },
-      {
-        "id": 1984,
-        "municipio": "SILOS"
-      },
-      {
-        "id": 1985,
-        "municipio": "TEORAMA"
-      },
-      {
-        "id": 1986,
-        "municipio": "TIBU"
-      },
-      {
-        "id": 1987,
-        "municipio": "TOLEDO"
-      },
-      {
-        "id": 1988,
-        "municipio": "VILLA CARO"
-      },
-      {
-        "id": 1989,
-        "municipio": "VILLA DEL ROSARIO"
-      }
-    ]
-  },
-  {
-    "id": 52,
-    "departamento": "QUINDIO",
-    "listaMunicipios": [
-      {
-        "id": 1990,
-        "municipio": "ARMENIA"
-      },
-      {
-        "id": 1991,
-        "municipio": "BUENAVISTA"
-      },
-      {
-        "id": 1992,
-        "municipio": "CALARCA"
-      },
-      {
-        "id": 1993,
-        "municipio": "CIRCASIA"
-      },
-      {
-        "id": 1994,
-        "municipio": "CORDOBA"
-      },
-      {
-        "id": 1995,
-        "municipio": "FILANDIA"
-      },
-      {
-        "id": 1996,
-        "municipio": "GENOVA"
-      },
-      {
-        "id": 1997,
-        "municipio": "LA TEBAIDA"
-      },
-      {
-        "id": 1998,
-        "municipio": "MONTENEGRO"
-      },
-      {
-        "id": 1999,
-        "municipio": "PIJAO"
-      },
-      {
-        "id": 2000,
-        "municipio": "QUIMBAYA"
-      },
-      {
-        "id": 2001,
-        "municipio": "SALENTO"
-      }
-    ]
-  },
-  {
-    "id": 53,
-    "departamento": "RISARALDA",
-    "listaMunicipios": [
-      {
-        "id": 2003,
-        "municipio": "APIA"
-      },
-      {
-        "id": 2004,
-        "municipio": "BALBOA"
-      },
-      {
-        "id": 2005,
-        "municipio": "BELEN DE UMBRIA"
-      },
-      {
-        "id": 2006,
-        "municipio": "DOSQUEBRADAS"
-      },
-      {
-        "id": 2007,
-        "municipio": "GUATICA"
-      },
-      {
-        "id": 2008,
-        "municipio": "LA CELIA"
-      },
-      {
-        "id": 2009,
-        "municipio": "LA VIRGINIA"
-      },
-      {
-        "id": 2010,
-        "municipio": "MARSELLA"
-      },
-      {
-        "id": 2011,
-        "municipio": "MISTRATO"
-      },
-      {
-        "id": 2002,
-        "municipio": "PEREIRA"
-      },
-      {
-        "id": 2012,
-        "municipio": "PUEBLO RICO"
-      },
-      {
-        "id": 2013,
-        "municipio": "QUINCHIA"
-      },
-      {
-        "id": 2014,
-        "municipio": "SANTA ROSA DE CABAL"
-      },
-      {
-        "id": 2015,
-        "municipio": "SANTUARIO"
-      }
-    ]
-  },
-  {
-    "id": 54,
-    "departamento": "SANTANDER",
-    "listaMunicipios": [
-      {
-        "id": 2017,
-        "municipio": "AGUADA"
-      },
-      {
-        "id": 2018,
-        "municipio": "ALBANIA"
-      },
-      {
-        "id": 2019,
-        "municipio": "ARATOCA"
-      },
-      {
-        "id": 2020,
-        "municipio": "BARBOSA"
-      },
-      {
-        "id": 2021,
-        "municipio": "BARICHARA"
-      },
-      {
-        "id": 2022,
-        "municipio": "BARRANCABERMEJA"
-      },
-      {
-        "id": 2023,
-        "municipio": "BETULIA"
-      },
-      {
-        "id": 2024,
-        "municipio": "BOLIVAR"
-      },
-      {
-        "id": 2016,
-        "municipio": "BUCARAMANGA"
-      },
-      {
-        "id": 2025,
-        "municipio": "CABRERA"
-      },
-      {
-        "id": 2026,
-        "municipio": "CALIFORNIA"
-      },
-      {
-        "id": 2027,
-        "municipio": "CAPITANEJO"
-      },
-      {
-        "id": 2028,
-        "municipio": "CARCASI"
-      },
-      {
-        "id": 2029,
-        "municipio": "CEPITA"
-      },
-      {
-        "id": 2030,
-        "municipio": "CERRITO"
-      },
-      {
-        "id": 2031,
-        "municipio": "CHARALA"
-      },
-      {
-        "id": 2032,
-        "municipio": "CHARTA"
-      },
-      {
-        "id": 2033,
-        "municipio": "CHIMA"
-      },
-      {
-        "id": 2034,
-        "municipio": "CHIPATA"
-      },
-      {
-        "id": 2035,
-        "municipio": "CIMITARRA"
-      },
-      {
-        "id": 2036,
-        "municipio": "CONCEPCION"
-      },
-      {
-        "id": 2037,
-        "municipio": "CONFINES"
-      },
-      {
-        "id": 2038,
-        "municipio": "CONTRATACION"
-      },
-      {
-        "id": 2039,
-        "municipio": "COROMORO"
-      },
-      {
-        "id": 2040,
-        "municipio": "CURITI"
-      },
-      {
-        "id": 2041,
-        "municipio": "EL CARMEN DE CHUCURI"
-      },
-      {
-        "id": 2042,
-        "municipio": "EL GUACAMAYO"
-      },
-      {
-        "id": 2043,
-        "municipio": "EL PEÃ‘ON"
-      },
-      {
-        "id": 2044,
-        "municipio": "EL PLAYON"
-      },
-      {
-        "id": 2045,
-        "municipio": "ENCINO"
-      },
-      {
-        "id": 2046,
-        "municipio": "ENCISO"
-      },
-      {
-        "id": 2047,
-        "municipio": "FLORIAN"
-      },
-      {
-        "id": 2048,
-        "municipio": "FLORIDABLANCA"
-      },
-      {
-        "id": 2049,
-        "municipio": "GALAN"
-      },
-      {
-        "id": 2050,
-        "municipio": "GAMBITA"
-      },
-      {
-        "id": 2051,
-        "municipio": "GIRON"
-      },
-      {
-        "id": 2052,
-        "municipio": "GUACA"
-      },
-      {
-        "id": 2053,
-        "municipio": "GUADALUPE"
-      },
-      {
-        "id": 2054,
-        "municipio": "GUAPOTA"
-      },
-      {
-        "id": 2055,
-        "municipio": "GUAVATA"
-      },
-      {
-        "id": 2056,
-        "municipio": "GÜEPSA"
-      },
-      {
-        "id": 2057,
-        "municipio": "HATO"
-      },
-      {
-        "id": 2058,
-        "municipio": "JESUS MARIA"
-      },
-      {
-        "id": 2059,
-        "municipio": "JORDÁN"
-      },
-      {
-        "id": 2060,
-        "municipio": "LA BELLEZA"
-      },
-      {
-        "id": 2062,
-        "municipio": "LA PAZ"
-      },
-      {
-        "id": 2061,
-        "municipio": "LANDAZURI"
-      },
-      {
-        "id": 2063,
-        "municipio": "LEBRIJA"
-      },
-      {
-        "id": 2064,
-        "municipio": "LOS SANTOS"
-      },
-      {
-        "id": 2065,
-        "municipio": "MACARAVITA"
-      },
-      {
-        "id": 2066,
-        "municipio": "MALAGA"
-      },
-      {
-        "id": 2067,
-        "municipio": "MATANZA"
-      },
-      {
-        "id": 2068,
-        "municipio": "MOGOTES"
-      },
-      {
-        "id": 2069,
-        "municipio": "MOLAGAVITA"
-      },
-      {
-        "id": 2070,
-        "municipio": "OCAMONTE"
-      },
-      {
-        "id": 2071,
-        "municipio": "OIBA"
-      },
-      {
-        "id": 2072,
-        "municipio": "ONZAGA"
-      },
-      {
-        "id": 2073,
-        "municipio": "PALMAR"
-      },
-      {
-        "id": 2074,
-        "municipio": "PALMAS DEL SOCORRO"
-      },
-      {
-        "id": 2075,
-        "municipio": "PARAMO"
-      },
-      {
-        "id": 2076,
-        "municipio": "PIEDECUESTA"
-      },
-      {
-        "id": 2077,
-        "municipio": "PINCHOTE"
-      },
-      {
-        "id": 2078,
-        "municipio": "PUENTE NACIONAL"
-      },
-      {
-        "id": 2079,
-        "municipio": "PUERTO PARRA"
-      },
-      {
-        "id": 2080,
-        "municipio": "PUERTO WILCHES"
-      },
-      {
-        "id": 2081,
-        "municipio": "RIONEGRO"
-      },
-      {
-        "id": 2082,
-        "municipio": "SABANA DE TORRES"
-      },
-      {
-        "id": 2083,
-        "municipio": "SAN ANDRES"
-      },
-      {
-        "id": 2084,
-        "municipio": "SAN BENITO"
-      },
-      {
-        "id": 2085,
-        "municipio": "SAN GIL"
-      },
-      {
-        "id": 2086,
-        "municipio": "SAN JOAQUIN"
-      },
-      {
-        "id": 2087,
-        "municipio": "SAN JOSE DE MIRANDA"
-      },
-      {
-        "id": 2088,
-        "municipio": "SAN MIGUEL"
-      },
-      {
-        "id": 2089,
-        "municipio": "SAN VICENTE DE CHUCURI"
-      },
-      {
-        "id": 2090,
-        "municipio": "SANTA BARBARA"
-      },
-      {
-        "id": 2091,
-        "municipio": "SANTA HELENA DEL OPON"
-      },
-      {
-        "id": 2092,
-        "municipio": "SIMACOTA"
-      },
-      {
-        "id": 2093,
-        "municipio": "SOCORRO"
-      },
-      {
-        "id": 2094,
-        "municipio": "SUAITA"
-      },
-      {
-        "id": 2095,
-        "municipio": "SUCRE"
-      },
-      {
-        "id": 2096,
-        "municipio": "SURATA"
-      },
-      {
-        "id": 2097,
-        "municipio": "TONA"
-      },
-      {
-        "id": 2098,
-        "municipio": "VALLE DE SAN JOSE"
-      },
-      {
-        "id": 2099,
-        "municipio": "VELEZ"
-      },
-      {
-        "id": 2100,
-        "municipio": "VETAS"
-      },
-      {
-        "id": 2101,
-        "municipio": "VILLANUEVA"
-      },
-      {
-        "id": 2102,
-        "municipio": "ZAPATOCA"
-      }
-    ]
-  },
-  {
-    "id": 55,
-    "departamento": "SUCRE",
-    "listaMunicipios": [
-      {
-        "id": 2104,
-        "municipio": "BUENAVISTA"
-      },
-      {
-        "id": 2105,
-        "municipio": "CAIMITO"
-      },
-      {
-        "id": 2109,
-        "municipio": "CHALAN"
-      },
-      {
-        "id": 2106,
-        "municipio": "COLOSO"
-      },
-      {
-        "id": 2107,
-        "municipio": "COROZAL"
-      },
-      {
-        "id": 2108,
-        "municipio": "COVEÃ‘AS"
-      },
-      {
-        "id": 2110,
-        "municipio": "EL ROBLE"
-      },
-      {
-        "id": 2111,
-        "municipio": "GALERAS"
-      },
-      {
-        "id": 2112,
-        "municipio": "GUARANDA"
-      },
-      {
-        "id": 2113,
-        "municipio": "LA UNION"
-      },
-      {
-        "id": 2114,
-        "municipio": "LOS PALMITOS"
-      },
-      {
-        "id": 2115,
-        "municipio": "MAJAGUAL"
-      },
-      {
-        "id": 2116,
-        "municipio": "MORROA"
-      },
-      {
-        "id": 2117,
-        "municipio": "OVEJAS"
-      },
-      {
-        "id": 2118,
-        "municipio": "PALMITO"
-      },
-      {
-        "id": 2119,
-        "municipio": "SAMPUES"
-      },
-      {
-        "id": 2120,
-        "municipio": "SAN BENITO ABAD"
-      },
-      {
-        "id": 2121,
-        "municipio": "SAN JUAN DE BETULIA"
-      },
-      {
-        "id": 2125,
-        "municipio": "SAN LUIS DE SINCE"
-      },
-      {
-        "id": 2122,
-        "municipio": "SAN MARCOS"
-      },
-      {
-        "id": 2123,
-        "municipio": "SAN ONOFRE"
-      },
-      {
-        "id": 2124,
-        "municipio": "SAN PEDRO"
-      },
-      {
-        "id": 2127,
-        "municipio": "SANTIAGO DE TOLU"
-      },
-      {
-        "id": 2103,
-        "municipio": "SINCELEJO"
-      },
-      {
-        "id": 2126,
-        "municipio": "SUCRE"
-      },
-      {
-        "id": 2128,
-        "municipio": "TOLU VIEJO"
-      }
-    ]
-  },
-  {
-    "id": 56,
-    "departamento": "TOLIMA",
-    "listaMunicipios": [
-      {
-        "id": 2130,
-        "municipio": "ALPUJARRA"
-      },
-      {
-        "id": 2131,
-        "municipio": "ALVARADO"
-      },
-      {
-        "id": 2132,
-        "municipio": "AMBALEMA"
-      },
-      {
-        "id": 2133,
-        "municipio": "ANZOATEGUI"
-      },
-      {
-        "id": 2134,
-        "municipio": "ARMERO"
-      },
-      {
-        "id": 2135,
-        "municipio": "ATACO"
-      },
-      {
-        "id": 2136,
-        "municipio": "CAJAMARCA"
-      },
-      {
-        "id": 2137,
-        "municipio": "CARMEN DE APICALA"
-      },
-      {
-        "id": 2138,
-        "municipio": "CASABIANCA"
-      },
-      {
-        "id": 2139,
-        "municipio": "CHAPARRAL"
-      },
-      {
-        "id": 2140,
-        "municipio": "COELLO"
-      },
-      {
-        "id": 2141,
-        "municipio": "COYAIMA"
-      },
-      {
-        "id": 2142,
-        "municipio": "CUNDAY"
-      },
-      {
-        "id": 2143,
-        "municipio": "DOLORES"
-      },
-      {
-        "id": 2144,
-        "municipio": "ESPINAL"
-      },
-      {
-        "id": 2145,
-        "municipio": "FALAN"
-      },
-      {
-        "id": 2146,
-        "municipio": "FLANDES"
-      },
-      {
-        "id": 2147,
-        "municipio": "FRESNO"
-      },
-      {
-        "id": 2148,
-        "municipio": "GUAMO"
-      },
-      {
-        "id": 2149,
-        "municipio": "HERVEO"
-      },
-      {
-        "id": 2150,
-        "municipio": "HONDA"
-      },
-      {
-        "id": 2129,
-        "municipio": "IBAGUE"
-      },
-      {
-        "id": 2151,
-        "municipio": "ICONONZO"
-      },
-      {
-        "id": 2152,
-        "municipio": "LERIDA"
-      },
-      {
-        "id": 2153,
-        "municipio": "LIBANO"
-      },
-      {
-        "id": 2154,
-        "municipio": "MARIQUITA"
-      },
-      {
-        "id": 2155,
-        "municipio": "MELGAR"
-      },
-      {
-        "id": 2156,
-        "municipio": "MURILLO"
-      },
-      {
-        "id": 2157,
-        "municipio": "NATAGAIMA"
-      },
-      {
-        "id": 2158,
-        "municipio": "ORTEGA"
-      },
-      {
-        "id": 2159,
-        "municipio": "PALOCABILDO"
-      },
-      {
-        "id": 2160,
-        "municipio": "PIEDRAS"
-      },
-      {
-        "id": 2161,
-        "municipio": "PLANADAS"
-      },
-      {
-        "id": 2162,
-        "municipio": "PRADO"
-      },
-      {
-        "id": 2163,
-        "municipio": "PURIFICACION"
-      },
-      {
-        "id": 2164,
-        "municipio": "RIOBLANCO"
-      },
-      {
-        "id": 2165,
-        "municipio": "RONCESVALLES"
-      },
-      {
-        "id": 2166,
-        "municipio": "ROVIRA"
-      },
-      {
-        "id": 2167,
-        "municipio": "SALDAÑA"
-      },
-      {
-        "id": 2168,
-        "municipio": "SAN ANTONIO"
-      },
-      {
-        "id": 2169,
-        "municipio": "SAN LUIS"
-      },
-      {
-        "id": 2170,
-        "municipio": "SANTA ISABEL"
-      },
-      {
-        "id": 2171,
-        "municipio": "SUAREZ"
-      },
-      {
-        "id": 2172,
-        "municipio": "VALLE DE SAN JUAN"
-      },
-      {
-        "id": 2173,
-        "municipio": "VENADILLO"
-      },
-      {
-        "id": 2174,
-        "municipio": "VILLAHERMOSA"
-      },
-      {
-        "id": 2175,
-        "municipio": "VILLARRICA"
-      }
-    ]
-  },
-  {
-    "id": 57,
-    "departamento": "VALLE DEL CAUCA",
-    "listaMunicipios": [
-      {
-        "id": 2177,
-        "municipio": "ALCALA"
-      },
-      {
-        "id": 2178,
-        "municipio": "ANDALUCIA"
-      },
-      {
-        "id": 2179,
-        "municipio": "ANSERMANUEVO"
-      },
-      {
-        "id": 2180,
-        "municipio": "ARGELIA"
-      },
-      {
-        "id": 2181,
-        "municipio": "BOLIVAR"
-      },
-      {
-        "id": 2182,
-        "municipio": "BUENAVENTURA"
-      },
-      {
-        "id": 2184,
-        "municipio": "BUGALAGRANDE"
-      },
-      {
-        "id": 2185,
-        "municipio": "CAICEDONIA"
-      },
-      {
-        "id": 2176,
-        "municipio": "CALI"
-      },
-      {
-        "id": 2186,
-        "municipio": "CALIMA"
-      },
-      {
-        "id": 2187,
-        "municipio": "CANDELARIA"
-      },
-      {
-        "id": 2188,
-        "municipio": "CARTAGO"
-      },
-      {
-        "id": 2189,
-        "municipio": "DAGUA"
-      },
-      {
-        "id": 2190,
-        "municipio": "EL AGUILA"
-      },
-      {
-        "id": 2191,
-        "municipio": "EL CAIRO"
-      },
-      {
-        "id": 2192,
-        "municipio": "EL CERRITO"
-      },
-      {
-        "id": 2193,
-        "municipio": "EL DOVIO"
-      },
-      {
-        "id": 2194,
-        "municipio": "FLORIDA"
-      },
-      {
-        "id": 2195,
-        "municipio": "GINEBRA"
-      },
-      {
-        "id": 2196,
-        "municipio": "GUACARI"
-      },
-      {
-        "id": 2183,
-        "municipio": "GUADALAJARA DE BUGA"
-      },
-      {
-        "id": 2197,
-        "municipio": "JAMUNDI"
-      },
-      {
-        "id": 2198,
-        "municipio": "LA CUMBRE"
-      },
-      {
-        "id": 2199,
-        "municipio": "LA UNION"
-      },
-      {
-        "id": 2200,
-        "municipio": "LA VICTORIA"
-      },
-      {
-        "id": 2201,
-        "municipio": "OBANDO"
-      },
-      {
-        "id": 2202,
-        "municipio": "PALMIRA"
-      },
-      {
-        "id": 2203,
-        "municipio": "PRADERA"
-      },
-      {
-        "id": 2204,
-        "municipio": "RESTREPO"
-      },
-      {
-        "id": 2205,
-        "municipio": "RIOFRIO"
-      },
-      {
-        "id": 2206,
-        "municipio": "ROLDANILLO"
-      },
-      {
-        "id": 2207,
-        "municipio": "SAN PEDRO"
-      },
-      {
-        "id": 2208,
-        "municipio": "SEVILLA"
-      },
-      {
-        "id": 2209,
-        "municipio": "TORO"
-      },
-      {
-        "id": 2210,
-        "municipio": "TRUJILLO"
-      },
-      {
-        "id": 2211,
-        "municipio": "TULUA"
-      },
-      {
-        "id": 2212,
-        "municipio": "ULLOA"
-      },
-      {
-        "id": 2213,
-        "municipio": "VERSALLES"
-      },
-      {
-        "id": 2214,
-        "municipio": "VIJES"
-      },
-      {
-        "id": 2215,
-        "municipio": "YOTOCO"
-      },
-      {
-        "id": 2216,
-        "municipio": "YUMBO"
-      },
-      {
-        "id": 2217,
-        "municipio": "ZARZAL"
-      }
-    ]
-  },
-  {
-    "id": 58,
-    "departamento": "ARAUCA",
-    "listaMunicipios": []
-  },
-  {
-    "id": 59,
-    "departamento": "CASANARE",
-    "listaMunicipios": [
-      {
-        "id": 2223,
-        "municipio": "AGUAZUL"
-      },
-      {
-        "id": 2224,
-        "municipio": "CHAMEZA"
-      },
-      {
-        "id": 2225,
-        "municipio": "HATO COROZAL"
-      },
-      {
-        "id": 2226,
-        "municipio": "LA SALINA"
-      },
-      {
-        "id": 2227,
-        "municipio": "MANI"
-      },
-      {
-        "id": 2228,
-        "municipio": "MONTERREY"
-      },
-      {
-        "id": 2229,
-        "municipio": "NUNCHIA"
-      },
-      {
-        "id": 2230,
-        "municipio": "OROCUE"
-      },
-      {
-        "id": 2231,
-        "municipio": "PAZ DE ARIPORO"
-      },
-      {
-        "id": 2232,
-        "municipio": "PORE"
-      },
-      {
-        "id": 2233,
-        "municipio": "RECETOR"
-      },
-      {
-        "id": 2234,
-        "municipio": "SABANALARGA"
-      },
-      {
-        "id": 2235,
-        "municipio": "SACAMA"
-      },
-      {
-        "id": 2236,
-        "municipio": "SAN LUIS DE PALENQUE"
-      },
-      {
-        "id": 2237,
-        "municipio": "TAMARA"
-      },
-      {
-        "id": 2238,
-        "municipio": "TAURAMENA"
-      },
-      {
-        "id": 2239,
-        "municipio": "TRINIDAD"
-      },
-      {
-        "id": 2240,
-        "municipio": "VILLANUEVA"
-      },
-      {
-        "id": 2222,
-        "municipio": "YOPAL"
-      }
-    ]
-  },
-  {
-    "id": 60,
-    "departamento": "PUTUMAYO",
-    "listaMunicipios": [
-      {
-        "id": 2242,
-        "municipio": "COLON"
-      },
-      {
-        "id": 2241,
-        "municipio": "MOCOA"
-      },
-      {
-        "id": 2243,
-        "municipio": "ORITO"
-      },
-      {
-        "id": 2244,
-        "municipio": "PUERTO ASIS"
-      },
-      {
-        "id": 2245,
-        "municipio": "PUERTO CAICEDO"
-      },
-      {
-        "id": 2246,
-        "municipio": "PUERTO GUZMAN"
-      },
-      {
-        "id": 2247,
-        "municipio": "PUERTO LEGUIZAMO"
-      },
-      {
-        "id": 2249,
-        "municipio": "SAN FRANCISCO"
-      },
-      {
-        "id": 2250,
-        "municipio": "SAN MIGUEL"
-      },
-      {
-        "id": 2251,
-        "municipio": "SANTIAGO"
-      },
-      {
-        "id": 2248,
-        "municipio": "SIBUNDOY"
-      },
-      {
-        "id": 2252,
-        "municipio": "VALLE DEL GUAMUEZ"
-      },
-      {
-        "id": 2253,
-        "municipio": "VILLAGARZON"
-      }
-    ]
-  },
-  {
-    "id": 61,
-    "departamento": "SAN ANDRES",
-    "listaMunicipios": [
-      {
-        "id": 2255,
-        "municipio": "PROVIDENCIA"
-      },
-      {
-        "id": 2254,
-        "municipio": "SAN ANDRES"
-      }
-    ]
-  },
-  {
-    "id": 62,
-    "departamento": "AMAZONAS",
-    "listaMunicipios": [
-      {
-        "id": 1286,
-        "municipio": "EL ENCANTO"
-      },
-      {
-        "id": 1287,
-        "municipio": "LA CHORRERA"
-      },
-      {
-        "id": 1288,
-        "municipio": "LA PEDRERA"
-      },
-      {
-        "id": 1289,
-        "municipio": "LA VICTORIA"
-      },
-      {
-        "id": 1285,
-        "municipio": "LETICIA"
-      },
-      {
-        "id": 1290,
-        "municipio": "MIRITI - PARANA"
-      },
-      {
-        "id": 1291,
-        "municipio": "PUERTO ALEGRÍA"
-      },
-      {
-        "id": 1292,
-        "municipio": "PUERTO ARICA"
-      },
-      {
-        "id": 1293,
-        "municipio": "PUERTO NARIÑO"
-      },
-      {
-        "id": 1294,
-        "municipio": "PUERTO SANTANDER"
-      },
-      {
-        "id": 1295,
-        "municipio": "TARAPACA"
-      }
-    ]
-  },
-  {
-    "id": 63,
-    "departamento": "GUAINIA",
-    "listaMunicipios": [
-      {
-        "id": 2257,
-        "municipio": "BARRANCO MINAS"
-      },
-      {
-        "id": 2262,
-        "municipio": "CACAHUAL"
-      },
-      {
-        "id": 2256,
-        "municipio": "INIRIDA"
-      },
-      {
-        "id": 2261,
-        "municipio": "LA GUADALUPE"
-      },
-      {
-        "id": 2258,
-        "municipio": "MAPIRIPANA"
-      },
-      {
-        "id": 2264,
-        "municipio": "MORICHAL"
-      },
-      {
-        "id": 2263,
-        "municipio": "PANA PANA"
-      },
-      {
-        "id": 2260,
-        "municipio": "PUERTO COLOMBIA"
-      },
-      {
-        "id": 2259,
-        "municipio": "SAN FELIPE"
-      }
-    ]
-  },
-  {
-    "id": 64,
-    "departamento": "GUAVIARE",
-    "listaMunicipios": [
-      {
-        "id": 2266,
-        "municipio": "CALAMAR"
-      },
-      {
-        "id": 2267,
-        "municipio": "EL RETORNO"
-      },
-      {
-        "id": 2268,
-        "municipio": "MIRAFLORES"
-      },
-      {
-        "id": 2265,
-        "municipio": "SAN JOSE DEL GUAVIARE"
-      }
-    ]
-  },
-  {
-    "id": 65,
-    "departamento": "VAUPES",
-    "listaMunicipios": [
-      {
-        "id": 2270,
-        "municipio": "CARURU"
-      },
-      {
-        "id": 2269,
-        "municipio": "MITU"
-      },
-      {
-        "id": 2271,
-        "municipio": "PACOA"
-      },
-      {
-        "id": 2273,
-        "municipio": "PAPUNAUA"
-      },
-      {
-        "id": 2272,
-        "municipio": "TARAIRA"
-      },
-      {
-        "id": 2274,
-        "municipio": "YAVARATÉ"
-      }
-    ]
-  },
-  {
-    "id": 66,
-    "departamento": "VICHADA",
-    "listaMunicipios": [
-      {
-        "id": 2221,
-        "municipio": "CUMARIBO"
-      },
-      {
-        "id": 2278,
-        "municipio": "CUMARIBO"
-      },
-      {
-        "id": 2276,
-        "municipio": "LA PRIMAVERA"
-      },
-      {
-        "id": 2219,
-        "municipio": "LA PRIMAVERA"
-      },
-      {
-        "id": 2275,
-        "municipio": "PUERTO CARREÑO"
-      },
-      {
-        "id": 2218,
-        "municipio": "PUERTO CARREÑO"
-      },
-      {
-        "id": 2220,
-        "municipio": "SANTA ROSALIA"
-      },
-      {
-        "id": 2277,
-        "municipio": "SANTA ROSALIA"
-      }
-    ]
-  }
+[  
+    {  
+        "id":0,
+        "departamento":"Amazonas",
+        "ciudades":[  
+            "Leticia",
+            "Puerto Nari\u00f1o"
+        ]
+    },
+    {  
+        "id":1,
+        "departamento":"Antioquia",
+        "ciudades":[  
+            "Abejorral",
+            "Abriaqu\u00ed",
+            "Alejandr\u00eda",
+            "Amag\u00e1",
+            "Amalfi",
+            "Andes",
+            "Angel\u00f3polis",
+            "Angostura",
+            "Anor\u00ed",
+            "Anz\u00e1",
+            "Apartad\u00f3",
+            "Arboletes",
+            "Argelia",
+            "Armenia",
+            "Barbosa",
+            "Bello",
+            "Belmira",
+            "Betania",
+            "Betulia",
+            "Brice\u00f1o",
+            "Buritic\u00e1",
+            "C\u00e1ceres",
+            "Caicedo",
+            "Caldas",
+            "Campamento",
+            "Ca\u00f1asgordas",
+            "Caracol\u00ed",
+            "Caramanta",
+            "Carepa",
+            "Carolina del Pr\u00edncipe",
+            "Caucasia",
+            "Chigorod\u00f3",
+            "Cisneros",
+            "Ciudad Bol\u00edvar",
+            "Cocorn\u00e1",
+            "Concepci\u00f3n",
+            "Concordia",
+            "Copacabana",
+            "Dabeiba",
+            "Donmat\u00edas",
+            "Eb\u00e9jico",
+            "El Bagre",
+            "El Carmen de Viboral",
+            "El Pe\u00f1ol",
+            "El Retiro",
+            "El Santuario",
+            "Entrerr\u00edos",
+            "Envigado",
+            "Fredonia",
+            "Frontino",
+            "Giraldo",
+            "Girardota",
+            "G\u00f3mez Plata",
+            "Granada",
+            "Guadalupe",
+            "Guarne",
+            "Guatap\u00e9",
+            "Heliconia",
+            "Hispania",
+            "Itag\u00fc\u00ed",
+            "Ituango",
+            "Jard\u00edn",
+            "Jeric\u00f3",
+            "La Ceja",
+            "La Estrella",
+            "La Pintada",
+            "La Uni\u00f3n",
+            "Liborina",
+            "Maceo",
+            "Marinilla",
+            "Medell\u00edn",
+            "Montebello",
+            "Murind\u00f3",
+            "Mutat\u00e1",
+            "Nari\u00f1o",
+            "Nech\u00ed",
+            "Necocl\u00ed",
+            "Olaya",
+            "Peque",
+            "Pueblorrico",
+            "Puerto Berr\u00edo",
+            "Puerto Nare",
+            "Puerto Triunfo",
+            "Remedios",
+            "Rionegro",
+            "Sabanalarga",
+            "Sabaneta",
+            "Salgar",
+            "San Andr\u00e9s de Cuerquia",
+            "San Carlos",
+            "San Francisco",
+            "San Jer\u00f3nimo",
+            "San Jos\u00e9 de la Monta\u00f1a",
+            "San Juan de Urab\u00e1",
+            "San Luis",
+            "San Pedro de Urab\u00e1",
+            "San Pedro de los Milagros",
+            "San Rafael",
+            "San Roque",
+            "San Vicente",
+            "Santa B\u00e1rbara",
+            "Santa Fe de Antioquia",
+            "Santa Rosa de Osos",
+            "Santo Domingo",
+            "Segovia",
+            "Sons\u00f3n",
+            "Sopetr\u00e1n",
+            "T\u00e1mesis",
+            "Taraz\u00e1",
+            "Tarso",
+            "Titirib\u00ed",
+            "Toledo",
+            "Turbo",
+            "Uramita",
+            "Urrao",
+            "Valdivia",
+            "Valpara\u00edso",
+            "Vegach\u00ed",
+            "Venecia",
+            "Vig\u00eda del Fuerte",
+            "Yal\u00ed",
+            "Yarumal",
+            "Yolomb\u00f3",
+            "Yond\u00f3",
+            "Zaragoza"
+        ]
+    },
+    {  
+        "id":2,
+        "departamento":"Arauca",
+        "ciudades":[  
+            "Arauca",
+            "Arauquita",
+            "Cravo Norte",
+            "Fortul",
+            "Puerto Rond\u00f3n",
+            "Saravena",
+            "Tame"
+        ]
+    },
+    {  
+        "id":3,
+        "departamento":"Atl\u00e1ntico",
+        "ciudades":[  
+            "Baranoa",
+            "Barranquilla",
+            "Campo de la Cruz",
+            "Candelaria",
+            "Galapa",
+            "Juan de Acosta",
+            "Luruaco",
+            "Malambo",
+            "Manat\u00ed",
+            "Palmar de Varela",
+            "Pioj\u00f3",
+            "Polonuevo",
+            "Ponedera",
+            "Puerto Colombia",
+            "Repel\u00f3n",
+            "Sabanagrande",
+            "Sabanalarga",
+            "Santa Luc\u00eda",
+            "Santo Tom\u00e1s",
+            "Soledad",
+            "Su\u00e1n",
+            "Tubar\u00e1",
+            "Usiacur\u00ed"
+        ]
+    },
+    {  
+        "id":4,
+        "departamento":"Bol\u00edvar",
+        "ciudades":[  
+            "Ach\u00ed",
+            "Altos del Rosario",
+            "Arenal",
+            "Arjona",
+            "Arroyohondo",
+            "Barranco de Loba",
+            "Brazuelo de Papayal",
+            "Calamar",
+            "Cantagallo",
+            "Cartagena de Indias",
+            "Cicuco",
+            "Clemencia",
+            "C\u00f3rdoba",
+            "El Carmen de Bol\u00edvar",
+            "El Guamo",
+            "El Pe\u00f1\u00f3n",
+            "Hatillo de Loba",
+            "Magangu\u00e9",
+            "Mahates",
+            "Margarita",
+            "Mar\u00eda la Baja",
+            "Momp\u00f3s",
+            "Montecristo",
+            "Morales",
+            "Noros\u00ed",
+            "Pinillos",
+            "Regidor",
+            "R\u00edo Viejo",
+            "San Crist\u00f3bal",
+            "San Estanislao",
+            "San Fernando",
+            "San Jacinto del Cauca",
+            "San Jacinto",
+            "San Juan Nepomuceno",
+            "San Mart\u00edn de Loba",
+            "San Pablo",
+            "Santa Catalina",
+            "Santa Rosa",
+            "Santa Rosa del Sur",
+            "Simit\u00ed",
+            "Soplaviento",
+            "Talaigua Nuevo",
+            "Tiquisio",
+            "Turbaco",
+            "Turban\u00e1",
+            "Villanueva",
+            "Zambrano"
+        ]
+    },
+    {  
+        "id":5,
+        "departamento":"Boyac\u00e1",
+        "ciudades":[  
+            "Almeida",
+            "Aquitania",
+            "Arcabuco",
+            "Bel\u00e9n",
+            "Berbeo",
+            "Bet\u00e9itiva",
+            "Boavita",
+            "Boyac\u00e1",
+            "Brice\u00f1o",
+            "Buenavista",
+            "Busbanz\u00e1",
+            "Caldas",
+            "Campohermoso",
+            "Cerinza",
+            "Chinavita",
+            "Chiquinquir\u00e1",
+            "Ch\u00edquiza",
+            "Chiscas",
+            "Chita",
+            "Chitaraque",
+            "Chivat\u00e1",
+            "Chivor",
+            "Ci\u00e9nega",
+            "C\u00f3mbita",
+            "Coper",
+            "Corrales",
+            "Covarach\u00eda",
+            "Cubar\u00e1",
+            "Cucaita",
+            "Cu\u00edtiva",
+            "Duitama",
+            "El Cocuy",
+            "El Espino",
+            "Firavitoba",
+            "Floresta",
+            "Gachantiv\u00e1",
+            "G\u00e1meza",
+            "Garagoa",
+            "Guacamayas",
+            "Guateque",
+            "Guayat\u00e1",
+            "G\u00fcic\u00e1n",
+            "Iza",
+            "Jenesano",
+            "Jeric\u00f3",
+            "La Capilla",
+            "La Uvita",
+            "La Victoria",
+            "Labranzagrande",
+            "Macanal",
+            "Marip\u00ed",
+            "Miraflores",
+            "Mongua",
+            "Mongu\u00ed",
+            "Moniquir\u00e1",
+            "Motavita",
+            "Muzo",
+            "Nobsa",
+            "Nuevo Col\u00f3n",
+            "Oicat\u00e1",
+            "Otanche",
+            "Pachavita",
+            "P\u00e1ez",
+            "Paipa",
+            "Pajarito",
+            "Panqueba",
+            "Pauna",
+            "Paya",
+            "Paz del R\u00edo",
+            "Pesca",
+            "Pisba",
+            "Puerto Boyac\u00e1",
+            "Qu\u00edpama",
+            "Ramiriqu\u00ed",
+            "R\u00e1quira",
+            "Rond\u00f3n",
+            "Saboy\u00e1",
+            "S\u00e1chica",
+            "Samac\u00e1",
+            "San Eduardo",
+            "San Jos\u00e9 de Pare",
+            "San Luis de Gaceno",
+            "San Mateo",
+            "San Miguel de Sema",
+            "San Pablo de Borbur",
+            "Santa Mar\u00eda",
+            "Santa Rosa de Viterbo",
+            "Santa Sof\u00eda",
+            "Santana",
+            "Sativanorte",
+            "Sativasur",
+            "Siachoque",
+            "Soat\u00e1",
+            "Socha",
+            "Socot\u00e1",
+            "Sogamoso",
+            "Somondoco",
+            "Sora",
+            "Sorac\u00e1",
+            "Sotaquir\u00e1",
+            "Susac\u00f3n",
+            "Sutamarch\u00e1n",
+            "Sutatenza",
+            "Tasco",
+            "Tenza",
+            "Tiban\u00e1",
+            "Tibasosa",
+            "Tinjac\u00e1",
+            "Tipacoque",
+            "Toca",
+            "Tog\u00fc\u00ed",
+            "T\u00f3paga",
+            "Tota",
+            "Tunja",
+            "Tunungu\u00e1",
+            "Turmequ\u00e9",
+            "Tuta",
+            "Tutaz\u00e1",
+            "\u00dambita",
+            "Ventaquemada",
+            "Villa de Leyva",
+            "Viracach\u00e1",
+            "Zetaquira"
+        ]
+    },
+    {  
+        "id":6,
+        "departamento":"Caldas",
+        "ciudades":[  
+            "Aguadas",
+            "Anserma",
+            "Aranzazu",
+            "Belalc\u00e1zar",
+            "Chinchin\u00e1",
+            "Filadelfia",
+            "La Dorada",
+            "La Merced",
+            "Manizales",
+            "Manzanares",
+            "Marmato",
+            "Marquetalia",
+            "Marulanda",
+            "Neira",
+            "Norcasia",
+            "P\u00e1cora",
+            "Palestina",
+            "Pensilvania",
+            "Riosucio",
+            "Risaralda",
+            "Salamina",
+            "Saman\u00e1",
+            "San Jos\u00e9",
+            "Sup\u00eda",
+            "Victoria",
+            "Villamar\u00eda",
+            "Viterbo"
+        ]
+    },
+    {  
+        "id":7,
+        "departamento":"Caquet\u00e1",
+        "ciudades":[  
+            "Albania",
+            "Bel\u00e9n de los Andaqu\u00edes",
+            "Cartagena del Chair\u00e1",
+            "Curillo",
+            "El Doncello",
+            "El Paujil",
+            "Florencia",
+            "La Monta\u00f1ita",
+            "Mil\u00e1n",
+            "Morelia",
+            "Puerto Rico",
+            "San Jos\u00e9 del Fragua",
+            "San Vicente del Cagu\u00e1n",
+            "Solano",
+            "Solita",
+            "Valpara\u00edso"
+        ]
+    },
+    {  
+        "id":8,
+        "departamento":"Casanare",
+        "ciudades":[  
+            "Aguazul",
+            "Ch\u00e1meza",
+            "Hato Corozal",
+            "La Salina",
+            "Man\u00ed",
+            "Monterrey",
+            "Nunch\u00eda",
+            "Orocu\u00e9",
+            "Paz de Ariporo",
+            "Pore",
+            "Recetor",
+            "Sabanalarga",
+            "S\u00e1cama",
+            "San Luis de Palenque",
+            "T\u00e1mara",
+            "Tauramena",
+            "Trinidad",
+            "Villanueva",
+            "Yopal"
+        ]
+    },
+    {  
+        "id":9,
+        "departamento":"Cauca",
+        "ciudades":[  
+            "Almaguer",
+            "Argelia",
+            "Balboa",
+            "Bol\u00edvar",
+            "Buenos Aires",
+            "Cajib\u00edo",
+            "Caldono",
+            "Caloto",
+            "Corinto",
+            "El Tambo",
+            "Florencia",
+            "Guachen\u00e9",
+            "Guap\u00ed",
+            "Inz\u00e1",
+            "Jambal\u00f3",
+            "La Sierra",
+            "La Vega",
+            "L\u00f3pez de Micay",
+            "Mercaderes",
+            "Miranda",
+            "Morales",
+            "Padilla",
+            "P\u00e1ez",
+            "Pat\u00eda",
+            "Piamonte",
+            "Piendam\u00f3",
+            "Popay\u00e1n",
+            "Puerto Tejada",
+            "Purac\u00e9",
+            "Rosas",
+            "San Sebasti\u00e1n",
+            "Santa Rosa",
+            "Santander de Quilichao",
+            "Silvia",
+            "Sotar\u00e1",
+            "Su\u00e1rez",
+            "Sucre",
+            "Timb\u00edo",
+            "Timbiqu\u00ed",
+            "Torib\u00edo",
+            "Totor\u00f3",
+            "Villa Rica"
+        ]
+    },
+    {  
+        "id":10,
+        "departamento":"Cesar",
+        "ciudades":[  
+            "Aguachica",
+            "Agust\u00edn Codazzi",
+            "Astrea",
+            "Becerril",
+            "Bosconia",
+            "Chimichagua",
+            "Chiriguan\u00e1",
+            "Curuman\u00ed",
+            "El Copey",
+            "El Paso",
+            "Gamarra",
+            "Gonz\u00e1lez",
+            "La Gloria (Cesar)",
+            "La Jagua de Ibirico",
+            "La Paz",
+            "Manaure Balc\u00f3n del Cesar",
+            "Pailitas",
+            "Pelaya",
+            "Pueblo Bello",
+            "R\u00edo de Oro",
+            "San Alberto",
+            "San Diego",
+            "San Mart\u00edn",
+            "Tamalameque",
+            "Valledupar"
+        ]
+    },
+    {  
+        "id":11,
+        "departamento":"Choc\u00f3",
+        "ciudades":[  
+            "Acand\u00ed",
+            "Alto Baud\u00f3",
+            "Bagad\u00f3",
+            "Bah\u00eda Solano",
+            "Bajo Baud\u00f3",
+            "Bojay\u00e1",
+            "Cant\u00f3n de San Pablo",
+            "C\u00e9rtegui",
+            "Condoto",
+            "El Atrato",
+            "El Carmen de Atrato",
+            "El Carmen del Dari\u00e9n",
+            "Istmina",
+            "Jurad\u00f3",
+            "Litoral de San Juan",
+            "Llor\u00f3",
+            "Medio Atrato",
+            "Medio Baud\u00f3",
+            "Medio San Juan",
+            "N\u00f3vita",
+            "Nuqu\u00ed",
+            "Quibd\u00f3",
+            "R\u00edo Ir\u00f3",
+            "R\u00edo Quito",
+            "Riosucio",
+            "San Jos\u00e9 del Palmar",
+            "Sip\u00ed",
+            "Tad\u00f3",
+            "Uni\u00f3n Panamericana",
+            "Ungu\u00eda"
+        ]
+    },
+    {  
+        "id":12,
+        "departamento":"Cundinamarca",
+        "ciudades":[  
+            "Agua de Dios",
+            "Alb\u00e1n",
+            "Anapoima",
+            "Anolaima",
+            "Apulo",
+            "Arbel\u00e1ez",
+            "Beltr\u00e1n",
+            "Bituima",
+            "Bogot\u00e1",
+            "Bojac\u00e1",
+            "Cabrera",
+            "Cachipay",
+            "Cajic\u00e1",
+            "Caparrap\u00ed",
+            "C\u00e1queza",
+            "Carmen de Carupa",
+            "Chaguan\u00ed",
+            "Ch\u00eda",
+            "Chipaque",
+            "Choach\u00ed",
+            "Chocont\u00e1",
+            "Cogua",
+            "Cota",
+            "Cucunub\u00e1",
+            "El Colegio",
+            "El Pe\u00f1\u00f3n",
+            "El Rosal",
+            "Facatativ\u00e1",
+            "F\u00f3meque",
+            "Fosca",
+            "Funza",
+            "F\u00faquene",
+            "Fusagasug\u00e1",
+            "Gachal\u00e1",
+            "Gachancip\u00e1",
+            "Gachet\u00e1",
+            "Gama",
+            "Girardot",
+            "Granada",
+            "Guachet\u00e1",
+            "Guaduas",
+            "Guasca",
+            "Guataqu\u00ed",
+            "Guatavita",
+            "Guayabal de S\u00edquima",
+            "Guayabetal",
+            "Guti\u00e9rrez",
+            "Jerusal\u00e9n",
+            "Jun\u00edn",
+            "La Calera",
+            "La Mesa",
+            "La Palma",
+            "La Pe\u00f1a",
+            "La Vega",
+            "Lenguazaque",
+            "Machet\u00e1",
+            "Madrid",
+            "Manta",
+            "Medina",
+            "Mosquera",
+            "Nari\u00f1o",
+            "Nemoc\u00f3n",
+            "Nilo",
+            "Nimaima",
+            "Nocaima",
+            "Pacho",
+            "Paime",
+            "Pandi",
+            "Paratebueno",
+            "Pasca",
+            "Puerto Salgar",
+            "Pul\u00ed",
+            "Quebradanegra",
+            "Quetame",
+            "Quipile",
+            "Ricaurte",
+            "San Antonio del Tequendama",
+            "San Bernardo",
+            "San Cayetano",
+            "San Francisco",
+            "San Juan de Rioseco",
+            "Sasaima",
+            "Sesquil\u00e9",
+            "Sibat\u00e9",
+            "Silvania",
+            "Simijaca",
+            "Soacha",
+            "Sop\u00f3",
+            "Subachoque",
+            "Suesca",
+            "Supat\u00e1",
+            "Susa",
+            "Sutatausa",
+            "Tabio",
+            "Tausa",
+            "Tena",
+            "Tenjo",
+            "Tibacuy",
+            "Tibirita",
+            "Tocaima",
+            "Tocancip\u00e1",
+            "Topaip\u00ed",
+            "Ubal\u00e1",
+            "Ubaque",
+            "Ubat\u00e9",
+            "Une",
+            "\u00datica",
+            "Venecia",
+            "Vergara",
+            "Vian\u00ed",
+            "Villag\u00f3mez",
+            "Villapinz\u00f3n",
+            "Villeta",
+            "Viot\u00e1",
+            "Yacop\u00ed",
+            "Zipac\u00f3n",
+            "Zipaquir\u00e1"
+        ]
+    },
+    {  
+        "id":13,
+        "departamento":"C\u00f3rdoba",
+        "ciudades":[  
+            "Ayapel",
+            "Buenavista",
+            "Canalete",
+            "Ceret\u00e9",
+            "Chim\u00e1",
+            "Chin\u00fa",
+            "Ci\u00e9naga de Oro",
+            "Cotorra",
+            "La Apartada",
+            "Lorica",
+            "Los C\u00f3rdobas",
+            "Momil",
+            "Montel\u00edbano",
+            "Monter\u00eda",
+            "Mo\u00f1itos",
+            "Planeta Rica",
+            "Pueblo Nuevo",
+            "Puerto Escondido",
+            "Puerto Libertador",
+            "Pur\u00edsima",
+            "Sahag\u00fan",
+            "San Andr\u00e9s de Sotavento",
+            "San Antero",
+            "San Bernardo del Viento",
+            "San Carlos",
+            "San Jos\u00e9 de Ur\u00e9",
+            "San Pelayo",
+            "Tierralta",
+            "Tuch\u00edn",
+            "Valencia"
+        ]
+    },
+    {  
+        "id":14,
+        "departamento":"Guain\u00eda",
+        "ciudades":[  
+            "In\u00edrida"
+        ]
+    },
+    {  
+        "id":15,
+        "departamento":"Guaviare",
+        "ciudades":[  
+            "Calamar",
+            "El Retorno",
+            "Miraflores",
+            "San Jos\u00e9 del Guaviare"
+        ]
+    },
+    {  
+        "id":16,
+        "departamento":"Huila",
+        "ciudades":[  
+            "Acevedo",
+            "Agrado",
+            "Aipe",
+            "Algeciras",
+            "Altamira",
+            "Baraya",
+            "Campoalegre",
+            "Colombia",
+            "El Pital",
+            "El\u00edas",
+            "Garz\u00f3n",
+            "Gigante",
+            "Guadalupe",
+            "Hobo",
+            "\u00cdquira",
+            "Isnos",
+            "La Argentina",
+            "La Plata",
+            "N\u00e1taga",
+            "Neiva",
+            "Oporapa",
+            "Paicol",
+            "Palermo",
+            "Palestina",
+            "Pitalito",
+            "Rivera",
+            "Saladoblanco",
+            "San Agust\u00edn",
+            "Santa Mar\u00eda",
+            "Suaza",
+            "Tarqui",
+            "Tello",
+            "Teruel",
+            "Tesalia",
+            "Timan\u00e1",
+            "Villavieja",
+            "Yaguar\u00e1"
+        ]
+    },
+    {  
+        "id":17,
+        "departamento":"La Guajira",
+        "ciudades":[  
+            "Albania",
+            "Barrancas",
+            "Dibulla",
+            "Distracci\u00f3n",
+            "El Molino",
+            "Fonseca",
+            "Hatonuevo",
+            "La Jagua del Pilar",
+            "Maicao",
+            "Manaure",
+            "Riohacha",
+            "San Juan del Cesar",
+            "Uribia",
+            "Urumita",
+            "Villanueva"
+        ]
+    },
+    {  
+        "id":18,
+        "departamento":"Magdalena",
+        "ciudades":[  
+            "Algarrobo",
+            "Aracataca",
+            "Ariguan\u00ed",
+            "Cerro de San Antonio",
+            "Chibolo",
+            "Chibolo",
+            "Ci\u00e9naga",
+            "Concordia",
+            "El Banco",
+            "El Pi\u00f1\u00f3n",
+            "El Ret\u00e9n",
+            "Fundaci\u00f3n",
+            "Guamal",
+            "Nueva Granada",
+            "Pedraza",
+            "Piji\u00f1o del Carmen",
+            "Pivijay",
+            "Plato",
+            "Pueblo Viejo",
+            "Remolino",
+            "Sabanas de San \u00c1ngel",
+            "Salamina",
+            "San Sebasti\u00e1n de Buenavista",
+            "San Zen\u00f3n",
+            "Santa Ana",
+            "Santa B\u00e1rbara de Pinto",
+            "Santa Marta",
+            "Sitionuevo",
+            "Tenerife",
+            "Zapay\u00e1n",
+            "Zona Bananera"
+        ]
+    },
+    {  
+        "id":19,
+        "departamento":"Meta",
+        "ciudades":[  
+            "Acac\u00edas",
+            "Barranca de Up\u00eda",
+            "Cabuyaro",
+            "Castilla la Nueva",
+            "Cubarral",
+            "Cumaral",
+            "El Calvario",
+            "El Castillo",
+            "El Dorado",
+            "Fuente de Oro",
+            "Granada",
+            "Guamal",
+            "La Macarena",
+            "La Uribe",
+            "Lejan\u00edas",
+            "Mapirip\u00e1n",
+            "Mesetas",
+            "Puerto Concordia",
+            "Puerto Gait\u00e1n",
+            "Puerto Lleras",
+            "Puerto L\u00f3pez",
+            "Puerto Rico",
+            "Restrepo",
+            "San Carlos de Guaroa",
+            "San Juan de Arama",
+            "San Juanito",
+            "San Mart\u00edn",
+            "Villavicencio",
+            "Vista Hermosa"
+        ]
+    },
+    {  
+        "id":20,
+        "departamento":"Nari\u00f1o",
+        "ciudades":[  
+            "Aldana",
+            "Ancuy\u00e1",
+            "Arboleda",
+            "Barbacoas",
+            "Bel\u00e9n",
+            "Buesaco",
+            "Chachag\u00fc\u00ed",
+            "Col\u00f3n",
+            "Consac\u00e1",
+            "Contadero",
+            "C\u00f3rdoba",
+            "Cuaspud",
+            "Cumbal",
+            "Cumbitara",
+            "El Charco",
+            "El Pe\u00f1ol",
+            "El Rosario",
+            "El Tabl\u00f3n",
+            "El Tambo",
+            "Francisco Pizarro",
+            "Funes",
+            "Guachucal",
+            "Guaitarilla",
+            "Gualmat\u00e1n",
+            "Iles",
+            "Imu\u00e9s",
+            "Ipiales",
+            "La Cruz",
+            "La Florida",
+            "La Llanada",
+            "La Tola",
+            "La Uni\u00f3n",
+            "Leiva",
+            "Linares",
+            "Los Andes",
+            "Mag\u00fc\u00ed Pay\u00e1n",
+            "Mallama",
+            "Mosquera",
+            "Nari\u00f1o",
+            "Olaya Herrera",
+            "Ospina",
+            "Pasto",
+            "Policarpa",
+            "Potos\u00ed",
+            "Providencia",
+            "Puerres",
+            "Pupiales",
+            "Ricaurte",
+            "Roberto Pay\u00e1n",
+            "Samaniego",
+            "San Bernardo",
+            "San Jos\u00e9 de Alb\u00e1n",
+            "San Lorenzo",
+            "San Pablo",
+            "San Pedro de Cartago",
+            "Sandon\u00e1",
+            "Santa B\u00e1rbara",
+            "Santacruz",
+            "Sapuyes",
+            "Taminango",
+            "Tangua",
+            "Tumaco",
+            "T\u00faquerres",
+            "Yacuanquer"
+        ]
+    },
+    {  
+        "id":21,
+        "departamento":"Norte de Santander",
+        "ciudades":[  
+            "\u00c1brego",
+            "Arboledas",
+            "Bochalema",
+            "Bucarasica",
+            "C\u00e1chira",
+            "C\u00e1cota",
+            "Chin\u00e1cota",
+            "Chitag\u00e1",
+            "Convenci\u00f3n",
+            "C\u00facuta",
+            "Cucutilla",
+            "Duran\u00eda",
+            "El Carmen",
+            "El Tarra",
+            "El Zulia",
+            "Gramalote",
+            "Hacar\u00ed",
+            "Herr\u00e1n",
+            "La Esperanza",
+            "La Playa de Bel\u00e9n",
+            "Labateca",
+            "Los Patios",
+            "Lourdes",
+            "Mutiscua",
+            "Oca\u00f1a",
+            "Pamplona",
+            "Pamplonita",
+            "Puerto Santander",
+            "Ragonvalia",
+            "Salazar de Las Palmas",
+            "San Calixto",
+            "San Cayetano",
+            "Santiago",
+            "Santo Domingo de Silos",
+            "Sardinata",
+            "Teorama",
+            "Tib\u00fa",
+            "Toledo",
+            "Villa Caro",
+            "Villa del Rosario"
+        ]
+    },
+    {  
+        "id":22,
+        "departamento":"Putumayo",
+        "ciudades":[  
+            "Col\u00f3n",
+            "Mocoa",
+            "Orito",
+            "Puerto As\u00eds",
+            "Puerto Caicedo",
+            "Puerto Guzm\u00e1n",
+            "Puerto Legu\u00edzamo",
+            "San Francisco",
+            "San Miguel",
+            "Santiago",
+            "Sibundoy",
+            "Valle del Guamuez",
+            "Villagarz\u00f3n"
+        ]
+    },
+    {  
+        "id":23,
+        "departamento":"Quind\u00edo",
+        "ciudades":[  
+            "Armenia",
+            "Buenavista",
+            "Calarc\u00e1",
+            "Circasia",
+            "C\u00f3rdoba",
+            "Filandia",
+            "G\u00e9nova",
+            "La Tebaida",
+            "Montenegro",
+            "Pijao",
+            "Quimbaya",
+            "Salento"
+        ]
+    },
+    {  
+        "id":24,
+        "departamento":"Risaralda",
+        "ciudades":[  
+            "Ap\u00eda",
+            "Balboa",
+            "Bel\u00e9n de Umbr\u00eda",
+            "Dosquebradas",
+            "Gu\u00e1tica",
+            "La Celia",
+            "La Virginia",
+            "Marsella",
+            "Mistrat\u00f3",
+            "Pereira",
+            "Pueblo Rico",
+            "Quinch\u00eda",
+            "Santa Rosa de Cabal",
+            "Santuario"
+        ]
+    },
+    {  
+        "id":25,
+        "departamento":"San Andr\u00e9s y Providencia",
+        "ciudades":[  
+            "Providencia y Santa Catalina Islas",
+            "San Andr\u00e9s"
+        ]
+    },
+    {  
+        "id":26,
+        "departamento":"Santander",
+        "ciudades":[  
+            "Aguada",
+            "Albania",
+            "Aratoca",
+            "Barbosa",
+            "Barichara",
+            "Barrancabermeja",
+            "Betulia",
+            "Bol\u00edvar",
+            "Bucaramanga",
+            "Cabrera",
+            "California",
+            "Capitanejo",
+            "Carcas\u00ed",
+            "Cepit\u00e1",
+            "Cerrito",
+            "Charal\u00e1",
+            "Charta",
+            "Chima",
+            "Chipat\u00e1",
+            "Cimitarra",
+            "Concepci\u00f3n",
+            "Confines",
+            "Contrataci\u00f3n",
+            "Coromoro",
+            "Curit\u00ed",
+            "El Carmen de Chucur\u00ed",
+            "El Guacamayo",
+            "El Pe\u00f1\u00f3n",
+            "El Play\u00f3n",
+            "El Socorro",
+            "Encino",
+            "Enciso",
+            "Flori\u00e1n",
+            "Floridablanca",
+            "Gal\u00e1n",
+            "G\u00e1mbita",
+            "Gir\u00f3n",
+            "Guaca",
+            "Guadalupe",
+            "Guapot\u00e1",
+            "Guavat\u00e1",
+            "G\u00fcepsa",
+            "Hato",
+            "Jes\u00fas Mar\u00eda",
+            "Jord\u00e1n",
+            "La Belleza",
+            "La Paz",
+            "Land\u00e1zuri",
+            "Lebrija",
+            "Los Santos",
+            "Macaravita",
+            "M\u00e1laga",
+            "Matanza",
+            "Mogotes",
+            "Molagavita",
+            "Ocamonte",
+            "Oiba",
+            "Onzaga",
+            "Palmar",
+            "Palmas del Socorro",
+            "P\u00e1ramo",
+            "Piedecuesta",
+            "Pinchote",
+            "Puente Nacional",
+            "Puerto Parra",
+            "Puerto Wilches",
+            "Rionegro",
+            "Sabana de Torres",
+            "San Andr\u00e9s",
+            "San Benito",
+            "San Gil",
+            "San Joaqu\u00edn",
+            "San Jos\u00e9 de Miranda",
+            "San Miguel",
+            "San Vicente de Chucur\u00ed",
+            "Santa B\u00e1rbara",
+            "Santa Helena del Op\u00f3n",
+            "Simacota",
+            "Suaita",
+            "Sucre",
+            "Surat\u00e1",
+            "Tona",
+            "Valle de San Jos\u00e9",
+            "V\u00e9lez",
+            "Vetas",
+            "Villanueva",
+            "Zapatoca"
+        ]
+    },
+    {  
+        "id":27,
+        "departamento":"Sucre",
+        "ciudades":[  
+            "Buenavista",
+            "Caimito",
+            "Chal\u00e1n",
+            "Colos\u00f3",
+            "Corozal",
+            "Cove\u00f1as",
+            "El Roble",
+            "Galeras",
+            "Guaranda",
+            "La Uni\u00f3n",
+            "Los Palmitos",
+            "Majagual",
+            "Morroa",
+            "Ovejas",
+            "Sampu\u00e9s",
+            "San Antonio de Palmito",
+            "San Benito Abad",
+            "San Juan de Betulia",
+            "San Marcos",
+            "San Onofre",
+            "San Pedro",
+            "Sinc\u00e9",
+            "Sincelejo",
+            "Sucre",
+            "Tol\u00fa",
+            "Tol\u00fa Viejo"
+        ]
+    },
+    {  
+        "id":28,
+        "departamento":"Tolima",
+        "ciudades":[  
+            "Alpujarra",
+            "Alvarado",
+            "Ambalema",
+            "Anzo\u00e1tegui",
+            "Armero",
+            "Ataco",
+            "Cajamarca",
+            "Carmen de Apical\u00e1",
+            "Casabianca",
+            "Chaparral",
+            "Coello",
+            "Coyaima",
+            "Cunday",
+            "Dolores",
+            "El Espinal",
+            "Fal\u00e1n",
+            "Flandes",
+            "Fresno",
+            "Guamo",
+            "Herveo",
+            "Honda",
+            "Ibagu\u00e9",
+            "Icononzo",
+            "L\u00e9rida",
+            "L\u00edbano",
+            "Mariquita",
+            "Melgar",
+            "Murillo",
+            "Natagaima",
+            "Ortega",
+            "Palocabildo",
+            "Piedras",
+            "Planadas",
+            "Prado",
+            "Purificaci\u00f3n",
+            "Rioblanco",
+            "Roncesvalles",
+            "Rovira",
+            "Salda\u00f1a",
+            "San Antonio",
+            "San Luis",
+            "Santa Isabel",
+            "Su\u00e1rez",
+            "Valle de San Juan",
+            "Venadillo",
+            "Villahermosa",
+            "Villarrica"
+        ]
+    },
+    {  
+        "id":29,
+        "departamento":"Valle del Cauca",
+        "ciudades":[  
+            "Alcal\u00e1",
+            "Andaluc\u00eda",
+            "Ansermanuevo",
+            "Argelia",
+            "Bol\u00edvar",
+            "Buenaventura",
+            "Buga",
+            "Bugalagrande",
+            "Caicedonia",
+            "Cali",
+            "Calima",
+            "Candelaria",
+            "Cartago",
+            "Dagua",
+            "El \u00c1guila",
+            "El Cairo",
+            "El Cerrito",
+            "El Dovio",
+            "Florida",
+            "Ginebra",
+            "Guacar\u00ed",
+            "Jamund\u00ed",
+            "La Cumbre",
+            "La Uni\u00f3n",
+            "La Victoria",
+            "Obando",
+            "Palmira",
+            "Pradera",
+            "Restrepo",
+            "Riofr\u00edo",
+            "Roldanillo",
+            "San Pedro",
+            "Sevilla",
+            "Toro",
+            "Trujillo",
+            "Tulu\u00e1",
+            "Ulloa",
+            "Versalles",
+            "Vijes",
+            "Yotoco",
+            "Yumbo",
+            "Zarzal"
+        ]
+    },
+    {  
+        "id":30,
+        "departamento":"Vaup\u00e9s",
+        "ciudades":[  
+            "Carur\u00fa",
+            "Mit\u00fa",
+            "Taraira"
+        ]
+    },
+    {  
+        "id":31,
+        "departamento":"Vichada",
+        "ciudades":[  
+            "Cumaribo",
+            "La Primavera",
+            "Puerto Carre\u00f1o",
+            "Santa Rosal\u00eda"
+        ]
+    }
 ]
