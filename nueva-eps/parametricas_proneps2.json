@@ -10498,5 +10498,33 @@
         "nombre": "Familia en Riesgo Alto"
       }
     ]
+  },
+  {
+    "id": 31,
+    "nombreTipoParam": "RESPUESTA_SI_NO",
+    "listaParametros": [
+      {
+        "id": 2581,
+        "nombre": "SI"
+      },
+      {
+        "id": 2582,
+        "nombre": "NO"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "nombreTipoParam": "PERCEPCION_SALUD",
+    "listaParametros": [
+      {
+        "id": 2583,
+        "nombre": "BUENA"
+      },
+      {
+        "id": 2584,
+        "nombre": "MALA"
+      }
+    ]
   }
 ]
