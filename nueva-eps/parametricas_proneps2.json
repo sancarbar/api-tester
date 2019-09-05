@@ -16,10 +16,6 @@
         "nombre": "Cédula de ciudadanía"
       },
       {
-        "id": 4,
-        "nombre": "NIT"
-      },
-      {
         "id": 5,
         "nombre": "Registro Civil"
       },
@@ -32,12 +28,8 @@
         "nombre": "Menor sin identificación"
       },
       {
-        "id": 8,
-        "nombre": "Número único"
-      },
-      {
         "id": 9,
-        "nombre": "Adulto sin documento de identificación"
+        "nombre": "Adulto sin identificación"
       },
       {
         "id": 10,
@@ -45,7 +37,7 @@
       },
       {
         "id": 11,
-        "nombre": "Certificado de nacido vivo"
+        "nombre": "Nacido vivo"
       },
       {
         "id": 12,
@@ -53,7 +45,7 @@
       },
       {
         "id": 13,
-        "nombre": "Permiso especial de permanencia"
+        "nombre": "Permiso de permanencia especial"
       }
     ]
   },
@@ -9433,7 +9425,7 @@
   },
   {
     "id": 7,
-    "nombreTipoParam": "ESTADO VÍAS DE ACCESO",
+    "nombreTipoParam": "ESTADO VIAS DE ACCESO",
     "listaParametros": [
       {
         "id": 2353,
@@ -10690,6 +10682,28 @@
       {
         "id": 4543,
         "nombre": "ALIANZA MEDELLIN ANTIOQUIA EPS S.A.S."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "nombreTipoParam": "TIPO_ANTECEDENTE",
+    "listaParametros": [
+      {
+        "id": 4544,
+        "nombre": "PERSONAL"
+      },
+      {
+        "id": 4545,
+        "nombre": "PROGRAMA_EPS"
+      },
+      {
+        "id": 4546,
+        "nombre": "CONSUME_MEDICAMENTO"
+      },
+      {
+        "id": 4547,
+        "nombre": "FAMILIAR"
       }
     ]
   }
